@@ -1,0 +1,2368 @@
+bash - Gnu bourne-again shell
+bunzip2 - A block-sorting file compressor
+busybox - The swiss army knife of embedded linux
+bzcat - A block-sorting file compressor
+bzcmp - Compare bzip2 compressed files
+bzdiff - Compare bzip2 compressed files
+bzegrep - Search possibly bzip2 compressed files for a
+bzexe - Compress executable files in place
+bzfgrep - Search possibly bzip2 compressed files for a
+bzgrep - Search possibly bzip2 compressed files for a
+bzip2 - A block-sorting file compressor
+bzip2recover - A block-sorting file compressor
+bzless - File  perusal  filter for crt viewing of bzip2 com‐
+bzmore - File  perusal  filter for crt viewing of bzip2 com‐
+cat - Concatenate files and print on the standard output
+chacl - Change the access control list of a file or directory
+chgrp - Change group ownership
+chmod - Change file mode bits
+chown - Change file owner and group
+chvt - Change foreground virtual terminal
+cp - Copy files and directories
+cpio - Copy files to and from archives
+dash - Dash — command interpreter (shell)
+date - Print or set the system date and time
+dd - Convert and copy a file
+df - Report file system disk space usage
+dir - List directory contents
+dmesg - Print or control the kernel ring buffer
+dnsdomainname - Show or set the system's host name
+domainname - Show or set the system's host name
+dumpkeys - Dump keyboard translation tables
+echo - Display a line of text
+ed - Line-oriented text editor
+efibootmgr - Manipulate the efi boot manager
+egrep - Print lines matching a pattern
+false - Do nothing, unsuccessfully
+fgconsole - Print the number of the active vt.
+fgrep - Print lines matching a pattern
+findmnt - Find a filesystem
+fuser - Identify processes using files or sockets
+fusermount - Unmount fuse filesystems
+getfacl - Get file access control lists
+grep - Print lines matching a pattern
+gunzip - Compress or expand files
+gzexe - Compress executable files in place
+gzip - Compress or expand files
+hciconfig - Configure bluetooth devices
+hostname - Show or set the system's host name
+ip - Show / manipulate routing, devices, policy routing and tunnels
+journalctl - Query the systemd journal
+kbd_mode - Report or set the keyboard mode
+kill - Send a signal to a process
+kmod - Program to manage linux kernel modules
+less - Opposite of more
+lessecho - Expand metacharacters
+lessfile - "input preprocessor" for  less.
+lesskey - Specify key bindings for less
+lesspipe - "input preprocessor" for  less.
+ln - Make links between files
+loadkeys - Load keyboard translation tables
+login - Begin session on the system
+loginctl - Control the systemd login manager
+lowntfs-3g - Ntfs-3g - third generation read/write ntfs driver
+ls - List directory contents
+lsblk - List block devices
+lsmod - Show the status of modules in the linux kernel
+mkdir - Make directories
+mknod - Make block or character special files
+mktemp - Create a temporary file or directory
+more - File perusal filter for crt viewing
+mount - Mount a filesystem
+mountpoint - See if a directory or file is a mountpoint
+mt - Control magnetic tape drive operation
+mt-gnu - Control magnetic tape drive operation
+mv - Move (rename) files
+nano - Nano's another editor, an enhanced free pico clone
+nc - Nc — arbitrary tcp and udp connections and listens
+nc.openbsd - Nc — arbitrary tcp and udp connections and listens
+netcat - Nc — arbitrary tcp and udp connections and listens
+netstat - Print network connections, routing tables, interface statis‐
+networkctl - Query the status of network links
+nisdomainname - Show or set the system's host name
+ntfs-3g - Ntfs-3g - third generation read/write ntfs driver
+ntfs-3g.probe - Ntfs-3g.probe - probe an ntfs volume mountability
+ntfs-3g.secaudit - Ntfs-3g.secaudit - ntfs security data auditing
+ntfs-3g.usermap - Ntfs-3g.usermap - ntfs building a user mapping file
+ntfscat - Print ntfs files and streams on the standard output
+ntfscluster - Identify files in a specified region of an ntfs volume.
+ntfscmp - Compare two ntfs filesystems and tell the differences
+ntfsfallocate - Preallocate space to a file on an ntfs volume
+ntfsfix - Fix common errors and force windows to check ntfs
+ntfsinfo - Dump a file's attributes
+ntfsls - List directory contents on an ntfs filesystem
+ntfstruncate - Truncate a file on an ntfs volume
+ntfswipe - Overwrite unused space on an ntfs volume
+open - Start a program on a new virtual terminal (vt).
+openvt - Start a program on a new virtual terminal (vt).
+pidof - Pidof -- find the process id of a running program.
+ping - Send icmp echo_request to network hosts
+ping6 - Send icmp echo_request to network hosts
+plymouth - Send commands to plymouthd
+ps - Report a snapshot of the current processes.
+pwd - Print name of current/working directory
+rbash - Restricted bash, see bash(1)
+readlink - Print resolved symbolic links or canonical file names
+red - Line-oriented text editor
+rm - Remove files or directories
+rmdir - Remove empty directories
+rnano - Restricted  mode  for nano's another editor, an enhanced free
+run-parts - Run-parts - run scripts or programs in a directory
+rzsh - The z shell
+sed - Stream editor for filtering and transforming text
+setfacl - Set file access control lists
+setfont - Load ega/vga console screen font
+setupcon - Sets up the font and the keyboard on the console
+sh - Dash — command interpreter (shell)
+sh.distrib - Dash — command interpreter (shell)
+sleep - Delay for a specified amount of time
+ss - Another utility to investigate sockets
+stty - Change and print terminal line settings
+su - Change user id or become superuser
+sync - Synchronize cached writes to persistent storage
+systemctl - Control the systemd system and service manager
+systemd - Systemd system and service manager
+systemd-ask-password - Systemd-ask-password - query the user for a system password
+systemd-escape - Systemd-escape - escape strings for usage in system unit names
+systemd-hwdb - Systemd-hwdb - hardware database management tool
+systemd-inhibit - Systemd-inhibit - execute a program with an inhibition lock taken
+systemd-machine-id-setup - Systemd-machine-id-setup - initialize the machine id in /etc/machine-id
+systemd-notify - Systemd-notify - notify service manager about start-up completion and
+systemd-tmpfiles - Systemd-tmpfiles, systemd-tmpfiles-setup.service, systemd-tmpfiles-
+systemd-tty-ask-password-agent - Systemd-tty-ask-password-agent - list or process pending systemd
+tailf - Follow the growth of a log file
+tar - Tar — the gnu version of the tar archiving utility
+tempfile - Create a temporary file in a safe manner
+touch - Change file timestamps
+true - Do nothing, successfully
+udevadm - Udev management tool
+ulockmgr_server - Lock manager server for fuse filesystems
+umount - Unmount file systems
+uname - Print system information
+uncompress - Compress or expand files
+unicode_start - Put keyboard and console in unicode mode
+vdir - List directory contents
+vmmouse_detect - Vmware mouse device autodetection tool
+wdctl - Show hardware watchdog status
+which - Locate a command
+whiptail - Display dialog boxes from shell scripts
+ypdomainname - Show or set the system's host name
+zcat - Compress or expand files
+zcmp - Compare compressed files
+zdiff - Compare compressed files
+zegrep - Search possibly compressed files for a regular expression
+zfgrep - Search possibly compressed files for a regular expression
+zforce - Force a '.gz' extension on all gzip files
+zgrep - Search possibly compressed files for a regular expression
+zless - File perusal filter for crt viewing of compressed text
+zmore - File perusal filter for crt viewing of compressed text
+znew - Recompress .z files to .gz files
+zsh - The z shell
+zsh5 - The z shell
+acpi_available - Test whether acpi subsystem is available
+agetty - Alternative linux getty
+apm_available - Test whether apm subsystem is available
+apparmor_parser - Loads apparmor profiles into the kernel
+badblocks - Search a device for bad blocks
+blkdiscard - Discard sectors on a device
+blkid - Locate/print block device attributes
+blockdev - Call block device ioctls from the command line
+bridge - Show / manipulate bridge addresses and devices
+brltty - Refreshable braille display driver for linux/unix
+capsh - Capability shell wrapper
+cfdisk - Display or manipulate a disk partition table
+cgdisk - Curses-based guid partition table (gpt) manipulator
+cgmanager - A daemon to manage cgroups
+cgproxy - A proxy for cgmanager
+chcpu - Configure cpus
+crda - Send to the kernel a wireless regulatory domain for a given iso
+ctrlaltdel - Set the function of the ctrl-alt-del combination
+debugfs - Ext2/ext3/ext4 file system debugger
+depmod - Generate modules.dep and map files.
+dhclient - Dynamic host configuration protocol client
+dhclient-script - Dhclient-script - dhcp client network configuration script
+dmsetup - Dmsetup — low level logical volume management
+dosfsck - Check and repair ms-dos filesystems
+dosfslabel - Set or get ms-dos filesystem label
+dumpe2fs - Dump ext2/ext3/ext4 filesystem information
+e2fsck - Check a linux ext2/ext3/ext4 file system
+e2image - Save critical ext2/ext3/ext4 filesystem metadata to a file
+e2label - Change the label on an ext2/ext3/ext4 filesystem
+e2undo - Replay an undo log for an ext2/ext3/ext4 filesystem
+ethtool - Query or control network driver and hardware settings
+fatlabel - Set or get ms-dos filesystem label
+fdisk - Manipulate disk partition table
+findfs - Find a filesystem by label or uuid
+fixparts - Mbr partition table repair utility
+fsck - Check and repair a linux filesystem
+fsck.cramfs - Fsck compressed rom file system
+fsck.ext2 - Check a linux ext2/ext3/ext4 file system
+fsck.ext3 - Check a linux ext2/ext3/ext4 file system
+fsck.ext4 - Check a linux ext2/ext3/ext4 file system
+fsck.ext4dev - Check a linux ext2/ext3/ext4 file system
+fsck.fat - Check and repair ms-dos filesystems
+fsck.minix - Check consistency of minix filesystem
+fsck.msdos - Check and repair ms-dos filesystems
+fsck.nfs - Dummy fsck.nfs script that always returns success.
+fsck.vfat - Check and repair ms-dos filesystems
+fsfreeze - Suspend access to a filesystem (ext3/4, reiserfs, jfs, xfs)
+fstab-decode - Fstab-decode - run a command with fstab-encoded arguments
+fstrim - Discard unused blocks on a mounted filesystem
+gdisk - Interactive guid partition table (gpt) manipulator
+getcap - Examine file capabilities
+getpcaps - List process capabilities
+getty - Alternative linux getty
+halt - Halt, power-off or reboot the machine
+hdparm - Get/set sata/ide device parameters
+hwclock - Read or set the hardware clock (rtc)
+ifconfig - Configure a network interface
+ifdown - Bring a network interface up
+ifquery - Bring a network interface up
+ifup - Bring a network interface up
+init - Systemd system and service manager
+initctl - Init daemon control tool
+insmod - Simple program to insert a module into the linux kernel
+installkernel - Install a new kernel image
+ip - Show / manipulate routing, devices, policy routing and tunnels
+ip6tables - Iptables/ip6tables — administration tool for ipv4/ipv6 packet filtering
+ip6tables-restore - Iptables-restore — restore ip tables
+ip6tables-save - Iptables-save — dump iptables rules to stdout
+iptables - Iptables/ip6tables — administration tool for ipv4/ipv6 packet filtering
+iptables-restore - Iptables-restore — restore ip tables
+iptables-save - Iptables-save — dump iptables rules to stdout
+isosize - Output the length of an iso9660 filesystem
+iw - Show / manipulate wireless devices and their configuration
+iwconfig - Configure a wireless network interface
+iwevent - Display  wireless  events  generated by drivers and setting
+iwgetid - Report essid, nwid or ap/cell address of wireless network
+iwlist - Get more detailed wireless information from a wireless inter‐
+iwpriv - Configure optionals (private) parameters of a wireless network
+iwspy - Get wireless statistics from specific nodes
+kbdrate - Reset the keyboard repeat rate and delay time
+killall5 - Killall5 -- send a signal to all processes.
+ldconfig - Configure dynamic linker run-time bindings
+logsave - Save the output of a command in a logfile
+losetup - Set up and control loop devices
+lsmod - Show the status of modules in the linux kernel
+lspcmcia - Pcmcia card control utility
+MAKEDEV - Create devices
+mii-tool - Mii-tool - view, manipulate media-independent interface status
+mkdosfs - Create an ms-dos filesystem under linux
+mke2fs - Create an ext2/ext3/ext4 filesystem
+mkfs - Build a linux filesystem
+mkfs.bfs - Make an sco bfs filesystem
+mkfs.cramfs - Make compressed rom file system
+mkfs.ext2 - Create an ext2/ext3/ext4 filesystem
+mkfs.ext3 - Create an ext2/ext3/ext4 filesystem
+mkfs.ext4 - Create an ext2/ext3/ext4 filesystem
+mkfs.ext4dev - Create an ext2/ext3/ext4 filesystem
+mkfs.fat - Create an ms-dos filesystem under linux
+mkfs.minix - Make a minix filesystem
+mkfs.msdos - Create an ms-dos filesystem under linux
+mkfs.ntfs - Create an ntfs file system
+mkfs.vfat - Create an ms-dos filesystem under linux
+mkhomedir_helper - Helper binary that creates home directories
+mkntfs - Create an ntfs file system
+mkswap - Set up a linux swap area
+modinfo - Show information about a linux kernel module
+modprobe - Add and remove modules from the linux kernel
+mountall - Mount filesystems during boot
+mount.fuse - Format and options for the fuse file systems
+mount.lowntfs-3g - Ntfs-3g - third generation read/write ntfs driver
+mount.ntfs - Ntfs-3g - third generation read/write ntfs driver
+mount.ntfs-3g - Ntfs-3g - third generation read/write ntfs driver
+nameif - Name network interfaces based on mac addresses
+ntfsclone - Efficiently clone, image, restore or rescue an ntfs
+ntfscp - Copy file to an ntfs volume.
+ntfslabel - Display/change the label on an ntfs file system
+ntfsresize - Resize an ntfs filesystem without data loss
+ntfsundelete - Recover a deleted file from an ntfs volume.
+on_ac_power - Test whether computer is running on ac power
+pam_tally - The login counter (tallying) module
+pam_tally2 - The login counter (tallying) module
+parted - A partition manipulation program
+partprobe - Inform the os of partition table changes
+pccardctl - Pcmcia card control utility
+pivot_root - Change the root filesystem
+plipconfig - Fine tune plip device parameters
+plymouthd - The plymouth daemon
+poweroff - Halt, power-off or reboot the machine
+rarp - Manipulate the system rarp table
+raw - Bind a linux raw character device
+reboot - Halt, power-off or reboot the machine
+regdbdump - Parse and print out regulatory rules file
+reload - Init daemon control tool
+resize2fs - Ext2/ext3/ext4 file system resizer
+resolvconf - Manage nameserver information
+restart - Init daemon control tool
+rmmod - Simple program to remove a module from the linux kernel
+route - Show / manipulate the ip routing table
+rtacct - Network statistics tools.
+rtmon - Listens to and monitors rtnetlink
+runlevel - Print previous and current sysv runlevel
+runuser - Run a command with substitute user and group id
+setcap - Set file capabilities
+setvtrgb - Customize the console color map
+sfdisk - Display or manipulate a disk partition table
+sgdisk - Command-line guid partition table (gpt) manipulator for linux
+shadowconfig - Toggle shadow passwords on and off
+shutdown - Halt, power-off or reboot the machine
+slattach - Attach a network interface to a serial line
+start - Init daemon control tool
+start-stop-daemon - Start-stop-daemon - start and stop system daemon programs
+status - Init daemon control tool
+stop - Init daemon control tool
+sulogin - Single-user login
+swaplabel - Print or change the label or uuid of a swap area
+swapoff - Enable/disable devices and files for paging and swap‐
+swapon - Enable/disable devices and files for paging and swap‐
+switch_root - Switch  to  another filesystem as the root of the mount
+sysctl - Configure kernel parameters at runtime
+tc - Show / manipulate traffic control settings
+telinit - Change sysv runlevel
+tipc - A tipc configuration and management tool
+tune2fs - Adjust  tunable  filesystem  parameters  on  ext2/ext3/ext4
+udevadm - Udev management tool
+umount.udisks2 - Unmount file systems that have been mounted by udisks
+unix_chkpwd - Helper binary that verifies the password of the current
+unix_update - Helper binary that updates the password of a given user
+upstart - Upstart process management daemon
+upstart-dbus-bridge - Upstart-dbus-bridge - bridge between upstart and d-bus
+upstart-event-bridge - Upstart-event-bridge  -  bridge  between  system  upstart  and  session
+upstart-file-bridge - Upstart-file-bridge - bridge between upstart and inotify
+upstart-local-bridge - Upstart-local-bridge - bridge between upstart and a local client socket
+upstart-socket-bridge - Upstart-socket-bridge - bridge between upstart and sockets
+upstart-udev-bridge - Upstart-udev-bridge - bridge between upstart and udev
+ureadahead - Read files in advance during boot
+wipefs - Wipe a signature from a device
+wpa_action - Wpa_cli action script
+wpa_cli - Wpa command line client
+wpa_supplicant - Wi-fi protected access client and ieee 802.1x suppli‐
+xtables-multi - Xtables-multi - xtables multi-link binary for netfilter's iptables and
+zramctl - Set up and control zram devices
+[ - Check file types and compare values
+2to3 - 2to3-2.7 - python2 to python3 converter
+2to3-2.7 - 2to3-2.7 - python2 to python3 converter
+2to3-3.5 - 2to3-3.3 - python2 to python3 converter
+411toppm - Convert sony mavica .411 image to ppm
+a11y-profile-manager-indicator - A11y-profile-manager-indicator  - shows an indicator on the unity desk‐
+aa-enabled - Aa-enabled - test whether apparmor is enabled
+aclocal - Manual page for aclocal 1.15
+aclocal-1.15 - Manual page for aclocal 1.15
+aconnect - Alsa sequencer connection manager
+acpi_listen - Acpi event listener
+add-apt-repository - Add-apt-repository  -  adds a repository into the /etc/apt/sources.list
+addpart - Tell the kernel about the existence of a partition
+addr2line - Convert addresses into file names and line numbers.
+ag - The silver searcher. like ack, but faster.
+alpine - An alternatively licensed program for internet news and email
+alpinef - An alternatively licensed program for internet news and email
+alsabat - Command-line sound tester for alsa sound card driver
+alsaloop - Command-line pcm loopback
+alsamixer - Soundcard  mixer  for alsa soundcard driver, with ncurses
+amidi - Read from and write to alsa rawmidi ports
+amixer - Command-line mixer for alsa soundcard driver
+animate - Animates an image or image sequence on any x server.
+animate-im6 - Animates an image or image sequence on any x server.
+anytopnm - Attempt to convert an unknown type of image file to a porta‐
+apg - Generates several random passwords
+apgbfm - Apg bloom filter management program
+aplay - Command-line sound recorder and player for alsa sound‐
+aplaymidi - Play standard midi files
+apport-bug - Apport-bug,  apport-collect - file a bug report using apport, or update
+apport-cli - Apport-cli, apport-gtk, apport-kde - apport user interfaces for report‐
+apport-collect - Apport-bug,  apport-collect - file a bug report using apport, or update
+apport-unpack - Apport-unpack  -  extract  the  fields  of a problem report to separate
+appres - List x application resource database
+appstreamcli - Handle appstream metadata and the appstream index
+apropos - Search the manual page names and descriptions
+apt - Command-line interface
+apt-add-repository - Add-apt-repository  -  adds a repository into the /etc/apt/sources.list
+apt-cache - Apt-cache - query the apt cache
+apt-cdrom - Apt-cdrom - apt cd-rom management utility
+apt-config - Apt-config - apt configuration query program
+aptdcon - Command line client for aptdaemon
+apt-extracttemplates - Apt-extracttemplates - utility to extract debconf config and templates
+apt-ftparchive - Apt-ftparchive - utility to generate index files
+apt-get - Apt-get - apt package handling utility -- command-line interface
+apt-key - Apt-key - apt key management utility
+apt-mark - Apt-mark - show, set and unset various settings for a package
+apt-sortpkgs - Apt-sortpkgs - utility to sort package index files
+apturl - Graphical apt-protocol interpreting package installer
+apturl-gtk - Graphical apt-protocol interpreting package installer
+ar - Create, modify, and extract from archives
+arch - Print machine hardware name (same as uname -m)
+arecord - Command-line sound recorder and player for alsa sound‐
+arecordmidi - Record standard midi files
+arm2hpdl - Add hp download header/trailer to an arm elf binary.
+arping - Send arp request to a neighbour host
+as - The portable gnu assembler.
+asciitopgm - Convert ascii graphics into a portable graymap
+aseqdump - Show the events received at an alsa sequencer port
+aseqnet - Alsa sequencer connectors over network
+aspell - Interactive spell checker
+aspell-import - Aspell-import - import old personal dictionaries into gnu aspell
+atktopbm - Convert andrew toolkit raster object to portable bitmap
+atobm - Bitmap editor and converter utilities for the x
+autoconf - Generate configuration scripts
+autoheader - Create a template header for configure
+autom4te - Generate files and scripts thanks to m4
+automake - Manual page for automake 1.15
+automake-1.15 - Manual page for automake 1.15
+autoreconf - Update generated configuration files
+autoscan - Generate a preliminary configure.in
+autoupdate - Update a configure.in to a newer autoconf
+avahi-browse - Avahi-browse - browse for mdns/dns-sd services using the avahi daemon
+avahi-browse-domains - Avahi-browse - browse for mdns/dns-sd services using the avahi daemon
+avahi-publish - Avahi-publish-service - register an mdns/dns-sd service or host name or
+avahi-publish-address - Avahi-publish-service - register an mdns/dns-sd service or host name or
+avahi-publish-service - Avahi-publish-service - register an mdns/dns-sd service or host name or
+avahi-resolve - Avahi-resolve  -  resolve  one  or  more  mdns/dns  host  name(s) to ip
+avahi-resolve-address - Avahi-resolve  -  resolve  one  or  more  mdns/dns  host  name(s) to ip
+avahi-resolve-host-name - Avahi-resolve  -  resolve  one  or  more  mdns/dns  host  name(s) to ip
+avahi-set-host-name - Avahi-set-host-name - change mdns host name
+awk - Pattern scanning and text processing language
+axi-cache - Axi-cache - query the apt xapian index
+baobab - A graphical tool to analyze disk usage
+base32 - Base32 encode/decode data and print to standard output
+base64 - Base64 encode/decode data and print to standard output
+basename - Strip directory and suffix from filenames
+bashbug - Report a bug in bash
+bc - An arbitrary precision calculator language
+bccmd - Utility for the csr bccmd interface
+bdftopcf - Convert x font from bitmap distribution format to portable
+bdftruncate - Generate truncated bdf font from iso 10646-1-encoded bdf
+bioradtopgm - Convert a biorad confocal file into a portable graymap
+bitmap - Bitmap editor and converter utilities for the x
+bluemoon - Bluemoon configuration utility
+bluetoothctl - Bluetooth control tool
+bluetooth-sendto - Bluetooth-sendto  -  gtk  application for transferring files over blue‐
+bluetooth-wizard - Bluetooth-wizard  -  gtk  wizard  for setting up devices with the linux
+bmptopnm - Convert a bmp file into a portable anymap
+bmptoppm - Convert a bmp file into a portable anymap
+bmtoa - Bitmap editor and converter utilities for the x
+bootctl - Control the firmware and boot manager settings
+brasero - Simple  and  easy to use cd/dvd burning application for the
+broadwayd - Broadway display server
+brushtopbm - Convert a doodle brush file into a portable bitmap
+bsd-from - From — print names of those who have sent mail
+bsd-write - Write — send a message to another user
+btattach - Attach serial devices to bluez stack
+btcflash - Firmware flash utility for btc drw1008 dvd+/-rw recorder.
+btmon - Bluetooth monitor
+busctl - Introspect the bus
+c++ - Gnu project c and c++ compiler
+c2ph - Dump c structures as generated from "cc -g -s" stabs
+c89 - Ansi (1989) c compiler
+c89-gcc - Ansi (1989) c compiler
+c99 - Ansi (1999) c compiler
+c99-gcc - Ansi (1999) c compiler
+cal - Cal, ncal — displays a calendar and the date of easter
+calendar - Calendar — reminder service
+calibrate_ppa - Pnm2ppa calibration tool
+canberra-gtk-play - Canberra-gtk-play - play a sound event
+cancel - Cancel jobs
+captoinfo - Convert a termcap description into a terminfo description
+catchsegv - Catch segmentation faults in programs
+catman - Create or update the pre-formatted manual pages
+cc - Gnu project c and c++ compiler
+ccsm - Compizconfig-settings-manager
+cdbs-edit-patch - Cdbs-edit-patch - create or edit a cdbs simple-patchsys.mk patch
+cd-create-profile - Cd-create-profile - color manager profile creation tool
+cd-fix-profile - Cd-fix-profile - color manager testing tool
+cd-it8 - Cd-it8 - color manager testing tool
+cdparanoia - An audio cd reading utility which includes extra data ver‐
+cdrdao - Reads and writes cds in disc-at-once mode
+cdxa2mpeg - Manual page for cdxa2mpeg 0.7.24
+c++filt - Demangle c++ and java symbols.
+cgm - A client script for cgmanager
+chacl - Change the access control list of a file or directory
+chage - Change user password expiry information
+chardet - Universal character encoding detector
+chardet3 - Universal character encoding detector
+chardetect - Universal character encoding detector
+chardetect3 - Universal character encoding detector
+charmap - Unicode character picker and font browser
+chattr - Change file attributes on a linux file system
+chcon - Change file security context
+checkbox - Checkboxng documentation
+checkbox-cli - Checkboxng documentation
+check-language-support - Check-language-support  - returns the list of missing packages in order
+cheese - Tool to take pictures and videos from your webcam
+chfn - Change real user name and information
+chrt - Manipulate the real-time attributes of a process
+chsh - Change login shell
+ciptool - Bluetooth common isdn access profile (cip)
+ckbcomp - Compile a xkb keyboard description to a keymap suitable for
+ckeygen - Manipulate public/private keys
+cksum - Checksum and count the bytes in a file
+clear - Clear the terminal screen
+clear_console - Clear the console
+cmp - Compare two files byte by byte
+cmuwmtopbm - Convert a cmu window manager bitmap into a portable bitmap
+codepage - Extract a codepage from an msdos codepage file
+col - Col — filter reverse line feeds from input
+colcrt - Colcrt — filter nroff output for crt previewing
+colormgr - Color manager testing tool
+colrm - Colrm — remove columns from a file
+column - Column — columnate lists
+combinediff - Create a cumulative unified patch from two incremental
+comm - Compare two sorted files line by line
+compare - Mathematically and visually annotate the difference between
+compare-im6 - Mathematically and visually annotate the difference between
+compiz - Opengl window and compositing manager
+compose - Run-mailcap,  view,  see,  edit,  compose, print - execute programs via
+composite - Overlaps one image over another.
+composite-im6 - Overlaps one image over another.
+conch - Conch — conch ssh client
+conchftp - Conchftp — conch command-line sftp client
+conjure - Interprets and executes scripts written in the magick script‐
+conjure-im6 - Interprets and executes scripts written in the magick script‐
+convert - Convert  between  image formats as well as resize an image,
+convert-im6 - Convert  between  image formats as well as resize an image,
+corelist - A commandline frontend to module::corelist
+cpan - Easily interact with cpan from the command line
+cpan5.22-x86_64-linux-gnu - Easily interact with cpan from the command line
+cpp - The c preprocessor
+cpp-4.8 - The c preprocessor
+cpp-5 - The c preprocessor
+crc32 - Compute crc-32 checksums for the given files
+c_rehash - Create symbolic links to files named by the hash values
+crontab - Maintain crontab files for individual users (vixie cron)
+csplit - Split a file into sections determined by context lines
+ctags - Generate tag file for emacs, vi
+ctags.emacs24 - Generate tag file for emacs, vi
+ctstat - Unified linux network statistics
+cups-calibrate - Cups-calibrate - esp cups printer calibration tool
+cupstestdsc - Test conformance of postscript files (deprecated)
+cupstestppd - Test conformance of ppd files
+curl - Transfer a url
+cut - Remove sections from each line of files
+cvt - Calculate vesa cvt mode lines
+dbus-cleanup-sockets - Dbus-cleanup-sockets - clean up leftover sockets in a directory
+dbus-daemon - Dbus-daemon - message bus daemon
+dbus-launch - Dbus-launch - utility to start a message bus from a shell script
+dbus-monitor - Dbus-monitor - debug probe to print message bus messages
+dbus-run-session - Dbus-run-session - start a process as a new d-bus session
+dbus-send - Dbus-send - send a message to a message bus
+dbus-update-activation-environment - Dbus-update-activation-environment - update environment used for d-bus
+dbus-uuidgen - Dbus-uuidgen - utility to generate uuids
+dbwrap_tool - Low level tdb/ctdb manipulation tool using the dbwrap
+dc - An arbitrary precision calculator
+dconf - Simple tool for manipulating a dconf database
+deallocvt - Deallocate unused virtual consoles
+debconf - Run a debconf-using program
+debconf-apt-progress - Debconf-apt-progress - install packages using debconf to display a
+debconf-communicate - Debconf-communicate - communicate with debconf
+debconf-copydb - Debconf-copydb - copy a debconf database
+debconf-escape - Debconf-escape - helper when working with debconf's escape capability
+debconf-gettextize - Debconf-gettextize - extract translations of debconf templates into po
+debconf-set-selections - Debconf-set-selections - insert new values into the debconf database
+debconf-show - Debconf-show - query the debconf database
+debconf-updatepo - Debconf-updatepo - update po files about debconf templates
+deb-systemd-helper - Deb-systemd-helper - subset of systemctl for machines not running
+deb-systemd-invoke - Deb-systemd-invoke - wrapper around systemctl, respecting policy-rc.d
+dehtmldiff - Get usable diff from an html page
+deja-dup - Deja-dup - manual page for deja-dup 34.2
+deja-dup-preferences - Deja-dup-preferences - manual page for deja-dup-preferences 34.2
+delpart - Tell the kernel to forget about a partition
+derb - Disassemble a resource bundle
+desktop-file-edit - Desktop-file-install,  desktop-file-edit  - installation and edition of
+desktop-file-install - Desktop-file-install,  desktop-file-edit  - installation and edition of
+desktop-file-validate - Desktop-file-validate - validate desktop entry files
+devdump - Utility programs for dumping and
+dfu-tool - Dfu-tool - device firmware upgrade tool
+dh - Debhelper command sequencer
+dh_auto_build - Automatically builds a package
+dh_auto_clean - Automatically cleans up after a build
+dh_auto_configure - Automatically configure a package prior to building
+dh_auto_install - Automatically runs make install or similar
+dh_auto_test - Automatically runs a package's test suites
+dh_autotools-dev_restoreconfig - Dh_autotools-dev_restoreconfig - restore config.sub and config.guess
+dh_autotools-dev_updateconfig - Dh_autotools-dev_updateconfig - update config.sub and config.guess
+dh_bash-completion - Dh_bash-completion - install bash completions for package
+dh_bugfiles - Install bug reporting customization files into package
+dh_builddeb - Build debian binary packages
+dh_clean - Clean up package build directories
+dh_compress - Compress files and fix symlinks in package build
+dh_desktop - Deprecated no-op
+dh_fixperms - Fix permissions of files in package build directories
+dh_gconf - Install gconf defaults files and register schemas
+dh_gencontrol - Generate and install control file
+dh_icons - Update caches of freedesktop icons
+dh_install - Install files into package build directories
+dh_installcatalogs - Install and register sgml catalogs
+dh_installchangelogs - Install changelogs into package build
+dh_installcron - Install cron scripts into etc/cron.*
+dh_installdeb - Install files into the debian directory
+dh_installdebconf - Install files used by debconf in package build
+dh_installdirs - Create subdirectories in package build directories
+dh_installdocs - Install documentation into package build directories
+dh_installemacsen - Register an emacs add on package
+dh_installexamples - Install example files into package build
+dh_installgsettings - Install gsettings overrides and set dependencies
+dh_installifupdown - Install if-up and if-down hooks
+dh_installinfo - Install info files
+dh_installinit - Install service init files into package build
+dh_installlogcheck - Install logcheck rulefiles into etc/logcheck/
+dh_installlogrotate - Install logrotate config files
+dh_installman - Install man pages into package build directories
+dh_installmanpages - Old-style man page installer (deprecated)
+dh_installmenu - Install debian menu files into package build
+dh_installmime - Install mime files into package build directories
+dh_installmodules - Register kernel modules
+dh_installpam - Install pam support files
+dh_installppp - Install ppp ip-up and ip-down files
+dh_installudev - Install udev rules files
+dh_installwm - Register a window manager
+dh_installxfonts - Register x fonts
+dh_installxmlcatalogs - Install and register xml catalog files
+dh_link - Create symlinks in package build directories
+dh_lintian - Install lintian override files into package build
+dh_listpackages - List binary packages debhelper will act on
+dh_makeshlibs - Automatically create shlibs file and call
+dh_md5sums - Generate debian/md5sums file
+dh_movefiles - Move files out of debian/tmp into subpackages
+dh_nodejs - Set nodejs dependencies
+dh_perl - Calculates perl dependencies and cleans up after makemaker
+dh_prep - Perform cleanups in preparation for building a binary package
+dh_pypy - Calculates pypy dependencies, adds maintainer scripts to byte
+dh_pysupport - Use the python-support framework to handle python
+dh_python2 - Calculates python dependencies, adds maintainer scripts to
+dh_python3 - Calculates python dependencies, adds maintainer scripts to
+dh_scour - Run scour optimizer on shipped svg files
+dh_scrollkeeper - Deprecated no-op
+dh_shlibdeps - Calculate shared library dependencies
+dh_strip - Strip executables, shared libraries, and some static
+dh_strip_nondeterminism - Strip uninteresting, non-deterministic
+dh_suidregister - Suid registration program (deprecated)
+dh_testdir - Test directory before building debian package
+dh_testroot - Ensure that a package is built as root
+dh_translations - Perform common translation related operations
+dh_ucf - Register configuration files with ucf
+dh_undocumented - Undocumented.7 symlink program (deprecated no-op)
+dh_update_autotools_config - Update autotools config files
+dh_usrlocal - Migrate usr/local directories to maintainer scripts
+dialog - Display dialog boxes from shell scripts
+diff - Compare files line by line
+diff3 - Compare three files line by line
+diffstat - Make histogram from diff-output
+dig - Dns lookup utility
+dircolors - Color setup for ls
+dirmngr - Crl and ocsp daemon
+dirmngr-client - Dirmngr-client - tool to access the dirmngr services
+dirname - Strip last component from file name
+dirsplit - Splits directory into multiple with equal size
+display - Displays an image or image sequence on any x server.
+display-im6 - Displays an image or image sequence on any x server.
+dm-tool - Dm-tool - a tool to control the display manager
+do-release-upgrade - Do-release-upgrade - upgrade operating system to latest release
+dotlockfile - Utility to manage lockfiles
+dpkg - Package manager for debian
+dpkg-architecture - Dpkg-architecture  -  set  and  determine  the architecture for package
+dpkg-buildflags - Dpkg-buildflags - returns build flags to use during package build
+dpkg-buildpackage - Dpkg-buildpackage - build binary or source packages from sources
+dpkg-checkbuilddeps - Dpkg-checkbuilddeps - check build dependencies and conflicts
+dpkg-deb - Dpkg-deb - debian package archive (.deb) manipulation tool
+dpkg-distaddfile - Dpkg-distaddfile - add entries to debian/files
+dpkg-divert - Dpkg-divert - override a package's version of a file
+dpkg-genchanges - Dpkg-genchanges - generate debian .changes files
+dpkg-gencontrol - Dpkg-gencontrol - generate debian control files
+dpkg-gensymbols - Dpkg-gensymbols  -  generate  symbols  files (shared library dependency
+dpkg-maintscript-helper - Dpkg-maintscript-helper  - works around known dpkg limitations in main‐
+dpkg-mergechangelogs - Dpkg-mergechangelogs - 3-way merge of debian/changelog files
+dpkg-name - Dpkg-name - rename debian packages to full package names
+dpkg-parsechangelog - Dpkg-parsechangelog - parse debian changelog files
+dpkg-query - Dpkg-query - a tool to query the dpkg database
+dpkg-scanpackages - Dpkg-scanpackages - create packages index files
+dpkg-scansources - Dpkg-scansources - create sources index files
+dpkg-shlibdeps - Dpkg-shlibdeps - generate shared library substvar dependencies
+dpkg-source - Dpkg-source - debian source package (.dsc) manipulation tool
+dpkg-split - Dpkg-split - debian package archive split/join tool
+dpkg-statoverride - Dpkg-statoverride - override ownership and mode of files
+dpkg-trigger - Dpkg-trigger - a package trigger utility
+dpkg-vendor - Dpkg-vendor - queries information about distribution vendors
+du - Estimate file space usage
+dumpkeys - Dump keyboard translation tables
+duplicity - Encrypted incremental backup to local or remote storage.
+dvd-ram-control - Dev-ram-control - checks features of dvd-ram discs
+dvd+rw-booktype - Dvd+rw-booktype - format dvd+-rw/-ram disk with a logical format
+dvd+rw-format - Dvd+rw-format - format dvd+-rw/-ram disk
+dvd+rw-mediainfo - Dvd+rw-mediainfo - display information about dvd drive and disk
+dvipdf - Convert tex dvi file to pdf using ghostscript and dvips
+dwp - The dwarf packaging utility
+ebrowse - Create a class hierarchy database
+ebrowse.emacs24 - Create a class hierarchy database
+edit - Run-mailcap,  view,  see,  edit,  compose, print - execute programs via
+editdiff - Fix offsets and counts of a hand-edited diff
+editor - Nano's another editor, an enhanced free pico clone
+editres - A dynamic resource editor for x toolkit applications
+eject - Eject removable media
+elfedit - Update the elf header of elf files.
+emacs - Gnu project emacs
+emacs24 - Gnu project emacs
+emacs24-x - Gnu project emacs
+emacsclient - Tells a running emacs to visit a file
+emacsclient.emacs24 - Tells a running emacs to visit a file
+enc2xs - Enc2xs -- perl encode module generator
+encguess - Guess character encodings of files
+enchant - A spellchecker
+enchant-lsmod - Enchant-lsmod - show information about available spell-checking modules
+env - Run a program in a modified environment
+envsubst - Substitutes environment variables in shell format strings
+eog - A gnome image viewer
+eps2eps - Ghostscript postscript "distiller"
+eqn - Format equations for troff or mathml
+erb - Erb — ruby templating
+erb1.9.1 - An embedded ruby language interpreter
+erb2.3 - Erb — ruby templating
+esc-m - Esc-m - ease viewing output of driver data
+etags - Generate tag file for emacs, vi
+etags.emacs24 - Generate tag file for emacs, vi
+evince - Gnome document viewer
+evince-thumbnailer - Evince-thumbnailer - create png thumbnails from postscript and pdf doc‐
+ex - Vi improved, a programmers text editor
+expand - Convert tabs to spaces
+expiry - Check and enforce password expiration policy
+expr - Evaluate expressions
+extresso - Wrapper for wrestool and icotool
+eyuvtoppm - Convert a berkeley yuv file to a portable pixmap file
+f77 - Gnu fortran compiler
+f95 - Gnu fortran compiler
+factor - Factor numbers
+faillog - Display faillog records or set login failure limits
+faked-sysv - Daemon  that  remembers  fake  ownership/permissions of files
+faked-tcp - Daemon  that  remembers  fake  ownership/permissions of files
+fakeroot - Run a command in an environment faking root privileges for
+fakeroot-sysv - Run a command in an environment faking root privileges for
+fakeroot-tcp - Run a command in an environment faking root privileges for
+fallocate - Preallocate or deallocate space to a file
+fc-cache - Fc-cache - build font information cache files
+fc-cat - Fc-cat - read font information cache files
+fc-list - Fc-list - list available fonts
+fc-match - Fc-match - match available fonts
+fc-pattern - Fc-pattern - parse and show pattern
+fc-query - Fc-query - query font files
+fc-scan - Fc-scan - scan font files or directories
+fc-validate - Fc-validate - validate font files
+fiascotopnm - Convert compressed fiasco image to pgm, or ppm
+file - File — determine file type
+file2brl - Manual page for file2brl (liblouisutdml) 2.5.0
+file-rename - Renames multiple files
+file-roller - File-roller - archive manager for gnome
+filezilla - Ftp client
+filterdiff - Extract or exclude diffs from a diff file
+find - Search for files in a directory hierarchy
+firefox - A free and open source web browser from mozilla
+fitstopnm - Convert a fits file into a portable anymap
+fixcvsdiff - Fix problematic diff files
+fix-qdf - Fix-qdf - repair pdf files in qdf form after editing
+flipdiff - Exchange the order of two incremental patches
+flock - Manage locks from shell scripts
+fmt - Simple optimal text formatter
+fold - Wrap each input line to fit in specified width
+font2c - Write postscript type 0 or type 1 font as c code
+fonttosfnt - Wrap a bitmap font in a sfnt (truetype) wrapper
+foo2hbpl2 - Convert  ghostscript  pbmraw or bitcmyk format into a zjs
+foo2hbpl2-wrapper - Foo2hbpl2-wrapper - convert postscript into a zjs printer stream
+foo2hiperc - Convert ghostscript pbmraw or bitcmyk format into a hiperc
+foo2hiperc-wrapper - Foo2hiperc-wrapper - convert postscript into a hiperc printer stream
+foo2hp - Convert  ghostscript  pbmraw  or  bitcmyk  format into a zjs
+foo2hp2600-wrapper - Foo2hp2600-wrapper - convert postscript into a zjs printer stream
+foo2lava - Convert ghostscript pbmraw or bitcmyk format into a lavaflow
+foo2lava-wrapper - Foo2lava-wrapper  -  convert  postscript into a lavaflow or opl printer
+foo2oak - Convert ghostscript pbmraw, pgmraw or bitcmyk format into an
+foo2oak-wrapper - Foo2oak-wrapper - convert postscript into an oakt printer stream
+foo2qpdl - Convert  ghostscript  pbmraw or bitcmyk format into a qpdl
+foo2qpdl-wrapper - Foo2qpdl-wrapper - convert postscript into a qpdl printer stream
+foo2slx - Convert  ghostscript  pbmraw  or  bitcmyk format into a slx
+foo2slx-wrapper - Foo2slx-wrapper - convert postscript into a slx printer stream
+foo2xqx - Convert ghostscript pbmraw into a xqx printer stream
+foo2xqx-wrapper - Foo2xqx-wrapper - convert postscript into a xqx printer stream
+foo2zjs - Convert  ghostscript  pbmraw  or  bitcmyk format into a zjs
+foo2zjs-pstops - Foo2zjs-pstops - add ps code for foo2*-wrapper
+foo2zjs-wrapper - Foo2zjs-wrapper - convert postscript into a zjs printer stream
+foomatic-rip - Foomatic-rip - universal print filter/rip wrapper
+free - Display amount of free and used memory in the system
+from - From — print names of those who have sent mail
+fslsfonts - List fonts served by x font server
+fstobdf - Generate bdf font from x font server
+fstopgm - Convert a usenix facesaver(tm) file into a portable graymap
+ftp - Ftp — internet file transfer program
+funzip - Filter for extracting from a zip archive in a pipe
+fwupdate - Update system firmware
+fwupdmgr - Fwupd client tool
+fzputtygen - Sftp private key converter of filezilla
+fzsftp - Sftp connection handler of filezilla
+g++ - Gnu project c and c++ compiler
+g3topbm - Convert a group 3 fax file into a portable bitmap
+g++-4.8 - Gnu project c and c++ compiler
+g++-5 - Gnu project c and c++ compiler
+gamma4scanimage - Create a gamma table for scanimage
+gatttool - Tool for bluetooth low energy device
+gcalccmd - A console calculator
+gcc - Gnu project c and c++ compiler
+gcc-4.8 - Gnu project c and c++ compiler
+gcc-5 - Gnu project c and c++ compiler
+gcc-ar - Gcc-ar - a wrapper around ar adding the --plugin option
+gcc-ar-4.8 - Gcc-ar - a wrapper around ar adding the --plugin option
+gcc-ar-5 - Gcc-ar - a wrapper around ar adding the --plugin option
+gcc-nm - Gcc-nm - a wrapper around nm adding the --plugin option
+gcc-nm-4.8 - Gcc-nm - a wrapper around nm adding the --plugin option
+gcc-nm-5 - Gcc-nm - a wrapper around nm adding the --plugin option
+gcc-ranlib - Gcc-ranlib - a wrapper around ranlib adding the --plugin option
+gcc-ranlib-4.8 - Gcc-ranlib - a wrapper around ranlib adding the --plugin option
+gcc-ranlib-5 - Gcc-ranlib - a wrapper around ranlib adding the --plugin option
+gconftool - Gconftool-2 - gnome configuration tool
+gconftool-2 - Gconftool-2 - gnome configuration tool
+gcore - Generate a core file of a running program
+gcov - Coverage testing tool
+gcov-4.8 - Coverage testing tool
+gcov-5 - Coverage testing tool
+gdb - The gnu debugger
+gdbserver - Remote server for the gnu debugger
+gdbus - Tool for working with d-bus objects
+gdebi - Simple tool to install deb files
+gedit - Text editor for the gnome desktop
+gem - Frontend to rubygems, the ruby package manager
+gem1.9.1 - The front end to rubygems
+gem2.3 - Frontend to rubygems, the ruby package manager
+gemtopbm - Convert a gem .img file into a portable anymap
+gemtopnm - Convert a gem .img file into a portable anymap
+genbrk - Compiles  icu break iteration rules source files into binary
+gencat - Generate message catalog
+gencfu - Generates unicode confusable data files
+gencnval - Compile the converters aliases file
+gendict - Compiles word list into icu string trie dictionary
+genisoimage - Create iso9660/joliet/hfs filesystem with optional rock
+genrb - Compile a resource bundle
+genresscript - Generate resource script from pe and ne binaries
+geqn - Format equations for troff or mathml
+GET - Lwp-request, get, post, head - simple command line user agent
+getconf - Query system configuration variables
+geteltorito - An el torito boot image extractor
+getent - Get entries from name service switch libraries
+getfacl - Get file access control lists
+getkeycodes - Print kernel scancode-to-keycode mapping table
+getopt - Parse command options (enhanced)
+gettext - Translate message
+gettextize - Install or upgrade gettext infrastructure
+gfortran - Gnu fortran compiler
+gfortran-5 - Gnu fortran compiler
+ghostscript - Ghostscript  (postscript  and  pdf language interpreter and pre‐
+giftopnm - Convert a gif file into a portable anymap
+ginstall-info - Install-info - update info/dir entries
+gio-querymodules - Gio-querymodules - gio module cache creation
+gipddecode - Decode a gipd stream into human readable form.
+git - The stupid content tracker
+git-receive-pack - Git-receive-pack - receive what is pushed into the repository
+git-shell - Git-shell - restricted login shell for git-only ssh access
+git-upload-archive - Git-upload-archive - send archive back to git-archive
+git-upload-pack - Git-upload-pack - send objects packed back to git-fetch-pack
+glib-compile-resources - Glib-compile-resources - glib resource compiler
+glib-compile-schemas - Glib-compile-schemas - gsettings schema compiler
+gnome-calculator - Gnome-calculator - a desktop calculator
+gnome-character-map - Unicode character picker and font browser
+gnome-control-center - Gnome-control-center - configure gnome settings
+gnome-disk-image-mounter - Gnome-disk-image-mounter - attach and mount disk images
+gnome-disks - Gnome-disks - the gnome disks application
+gnome-help - Yelp — browse system documentation
+gnome-keyring - Gnome-keyring - the gnome-keyring commandline tool
+gnome-keyring-daemon - Gnome-keyring-daemon - the gnome-keyring daemon
+gnome-language-selector - Gnome-language-selector - graphical language selection utility
+gnome-open - Gnome-open - open files and urls using the gnome file handlers
+gnome-power-statistics - Gnome-power-statistics - gnome power statistics gui
+gnome-screensaver - Gnome-screensaver - screen saver and locker
+gnome-screensaver-command - Gnome-screensaver-command - controls gnome screensaver
+gnome-screenshot - Gnome-screenshot  -  capture  the  screen, a window, or an user-defined
+gnome-session - Gnome-session - start the gnome desktop environment
+gnome-session-inhibit - Gnome-session-inhibit - inhibit gnome-session functionality
+gnome-session-properties - Gnome-session-properties - configure applications to start on login
+gnome-session-quit - Gnome-session-quit - end the current gnome session
+gnome-settings-daemon - Gnome-settings-daemon - handles the gnome session settings
+gnome-software - Gnome-software - install applications
+gnome-system-log - Gnome-system-log - the gnome system log viewer
+gnome-system-monitor - Gnome-system-monitor — view and control processes
+gnome-terminal - Gnome-terminal — is a terminal emulation application.
+gnome-terminal.wrapper - Gnome-terminal — is a terminal emulation application.
+gnome-text-editor - Text editor for the gnome desktop
+gold - The gnu elf linker
+google-chrome - Google-chrome - the web browser from google
+gouldtoppm - Convert gould scanner file into a portable pixmap
+gpasswd - Administer /etc/group and /etc/gshadow
+gpg - Openpgp encryption and signing tool
+gpg2 - Openpgp encryption and signing tool
+gpg-agent - Gpg-agent - secret key management for gnupg
+gpgconf - Modify .gnupg home directories
+gpg-connect-agent - Gpg-connect-agent - communicate with a running agent
+gpgparsemail - Parse a mail message into an annotated format
+gpgsplit - Split an openpgp message into packets
+gpgv - Verify openpgp signatures
+gpg-zip - Gpg-zip - encrypt or sign files into an archive
+gpic - Compile pictures for troff or tex
+gprof - Display call graph profile data
+grep-changelog - Grep-changelog - print changelog entries matching criteria
+grep-changelog.emacs24 - Grep-changelog - print changelog entries matching criteria
+grepdiff - Show files modified by a diff containing a regex
+gresource - Gresource tool
+groff - Front-end for the groff document formatting system
+grog - Grog — guess options for a following groff command
+grops - Postscript driver for groff
+grotty - Groff driver for typewriter-like devices
+groups - Print the groups a user is in
+growisofs - Combined genisoimage frontend/dvd recording program.
+grub-editenv - Grub-editenv - edit grub environment block
+grub-file - Grub-file - check file type
+grub-fstest - Grub-fstest - debug tool for grub filesystem drivers
+grub-glue-efi - Grub-glue-efi - generate a fat binary for efi
+grub-kbdcomp - Grub-kbdcomp - generate a grub keyboard layout file
+grub-menulst2cfg - Grub-menulst2cfg - transform legacy menu.lst into grub.cfg
+grub-mkfont - Grub-mkfont - make grub font files
+grub-mkimage - Grub-mkimage - make a bootable image of grub
+grub-mklayout - Grub-mklayout - generate a grub keyboard layout file
+grub-mknetdir - Grub-mknetdir - prepare a grub netboot directory.
+grub-mkpasswd-pbkdf2 - Grub-mkpasswd-pbkdf2 - generate hashed password for grub
+grub-mkrelpath - Grub-mkrelpath - make a system path relative to its root
+grub-mkrescue - Grub-mkrescue - make a grub rescue image
+grub-mkstandalone - Grub-mkstandalone - make a memdisk-based grub image
+grub-mount - Grub-mount - export grub filesystem with fuse
+grub-render-label - Grub-render-label - generate a .disk_label for apple macs.
+grub-script-check - Grub-script-check - check grub.cfg for syntax errors
+grub-syslinux2cfg - Grub-syslinux2cfg - transform syslinux config into grub.cfg
+gs - Ghostscript  (postscript  and  pdf language interpreter and pre‐
+gsbj - Format and print text using ghostscript
+gsdj - Format and print text using ghostscript
+gsdj500 - Format and print text using ghostscript
+gsettings - Gsettings configuration tool
+gsettings-data-convert - Gsettings-data-convert - gconf to gsettings data migration
+gsettings-schema-convert - Gsettings-schema-convert - gconf to gsettings schema conversion
+gslj - Format and print text using ghostscript
+gslp - Format and print text using ghostscript
+gsnd - Run ghostscript (postscript and pdf engine) without display
+gst-device-monitor-1.0 - Gst-device-monitor-1.0 - simple command line testing tool for gstreamer
+gst-discoverer-1.0 - Gst-discoverer-1.0 - display file metadata and stream information
+gst-feedback-0.10 - Gst-feedback - generate debug info for gstreamer bug reports
+gst-inspect-0.10 - Gst-inspect - print info about a gstreamer plugin or element
+gst-inspect-1.0 - Gst-inspect - print info about a gstreamer plugin or element
+gst-install - Gst-install - installs missing gstreamer plugins
+gst-launch-0.10 - Gst-launch - build and run a gstreamer pipeline
+gst-launch-1.0 - Gst-launch - build and run a gstreamer pipeline
+gst-play-1.0 - Gst-play-1.0 - simple command line playback testing tool
+gst-typefind-0.10 - Gst-typefind - print mime type of file
+gst-typefind-1.0 - Gst-typefind - print media type of file
+gst-visualise-0.10 - Gst-visualise - run a gstreamer pipeline to display an audio visualisa‐
+gst-xmlinspect-0.10 - Gst-inspect - print info about a gstreamer plugin or element
+gst-xmllaunch-0.10 - Gst-xmllaunch  - build and run a gstreamer pipeline from an xml serial‐
+gtbl - Format tables for troff
+gtf - Calculate vesa gtf mode lines
+gtk-builder-tool - Gtk-builder-tool - gtkbuilder file utility
+gtk-launch - Gtk-launch - launch an application
+gtk-update-icon-cache - Gtk-update-icon-cache - icon theme caching utility
+gtk-update-icon-cache-3.0 - Gtk-update-icon-cache - icon theme caching utility
+gtk-window-decorator - Gtk-window-decorator - compiz window decorator using the gtk toolkit
+gucharmap - Unicode character picker and font browser
+gvfs-cat - Gvfs-cat - concatenate files
+gvfs-copy - Gvfs-copy - copy files
+gvfs-info - Gvfs-info - show information about files
+gvfs-less - Gvfs-less - execute less on the output of gvfs-cat
+gvfs-ls - Gvfs-ls - list files
+gvfs-mime - Gvfs-mime - get or set mime handlers
+gvfs-mkdir - Gvfs-mkdir - create directories
+gvfs-monitor-dir - Gvfs-monitor-dir - monitor directories for changes
+gvfs-monitor-file - Gvfs-monitor-file - monitor files for changes
+gvfs-mount - Gvfs-mount - mounts the locations
+gvfs-move - Gvfs-move - copy files
+gvfs-open - Gvfs-open - open files with the default handler
+gvfs-rename - Gvfs-rename - rename a file
+gvfs-rm - Gvfs-rm - delete files
+gvfs-save - Gvfs-save - save standard input
+gvfs-set-attribute - Gvfs-set-attribute - set file attributes
+gvfs-trash - Gvfs-trash - move files or directories to the trash
+gvfs-tree - Gvfs-tree - list contents of directories in a tree-like format
+gyp - Cross-platform makefile generator for chromium
+h2ph - Convert .h c header files to .ph perl header files
+h2xs - Convert .h c header files to perl extensions
+hal-disable-polling - Hal-disable-polling - disable polling on drives with removable media
+hal-find-by-capability - Hal-find-by-capability - find device objects by capability matching
+hal-find-by-property - Hal-find-by-property - find device objects by property matching
+hal-get-property - Hal-get-property - get a property from a device object
+hal-is-caller-locked-out - Hal-is-caller-locked-out - determine if a caller is locked out
+hal-lock - Hal-lock - lock an interface
+hal-set-property - Hal-set-property - set a property on a device object
+hardening-check - Hardening-check - check binaries for security hardening features
+hbpldecode - Decode a hbpl stream into human readable form.
+hciattach - Attach serial devices via uart hci to bluez stack
+hcitool - Configure bluetooth connections
+hd - Hexdump, hd — ascii, decimal, hexadecimal, octal dump
+head - Output the first part of files
+HEAD - Lwp-request, get, post, head - simple command line user agent
+helpztags - Generate the help tags file for directory
+hex2hcd - Firmware converter
+hexchat - Irc client
+hexdump - Hexdump, hd — ascii, decimal, hexadecimal, octal dump
+hipercdecode - Decode a hiperc stream into human readable form.
+hipstopgm - Convert a hips file into a portable graymap
+host - Dns lookup utility
+hostid - Print the numeric identifier for the current host
+hostnamectl - Control the system hostname
+hp-align - Hp-align - printer cartridge alignment utility
+hp-check - Hp-check - dependency/version check utility
+hp-clean - Hp-clean - printer printhead cleaning utility
+hp-colorcal - Hp-colorcal - printer cartridge color calibration utility
+hp-config_usb_printer - Hp-config_usb_printer - hp device config using usb
+hp-doctor - Hp-doctor - self diagnse utility and healing utility
+hp-firmware - Hp-firmware - firmware download utility
+hp-info - Hp-info - device information utility
+hp-levels - Hp-levels - supply levels utility
+hp-logcapture - Hp-logcapture - hplip logs capture utility
+hp-makeuri - Hp-makeuri - device uri creation utility
+hp-pkservice - Hp-pkservice - policy kit service
+hp-plugin - Hp-plugin - plugin download and install utility
+hp-probe - Hp-probe - printer discovery utility
+hp-query - Hp-query - model query utility
+hp-scan - Hp-scan - scan utility
+hp-setup - Hp-setup - printer/fax setup utility
+hp-testpage - Hp-testpage - testpage print utility
+hp-timedate - Hp-timedate - time/date utility
+htop - Interactive process viewer
+http - Cli, curl-like tool for humans
+i386 - Change reported architecture in new program environment and
+ibus - Command line utility for ibus
+ibus-daemon - Ibus-daemon - daemon program for ibus
+ibus-setup - Ibus-setup - configuration program for ibus
+ibus-table-createdb - Ibus-table-createdb - create ibus-table database from table source
+iceauth - Ice authority file utility
+ico - Animate an icosahedron or other polyhedron
+icontopbm - Convert a sun icon into a portable bitmap
+iconv - Convert text from one character encoding to another
+icotool - Convert and create win32 icon and cursor files
+icu-config - Icu-config - output icu build options
+icuinfo - Shows some basic info about the current icu
+id - Print real and effective user and group ids
+identify - Describes  the  format  and characteristics of one or more
+identify-im6 - Describes  the  format  and characteristics of one or more
+iecset - Set or dump iec958 status bits
+ifnames - Extract cpp conditionals from a set of files
+ilbmtoppm - Convert an ilbm file into a portable pixmap
+imagetops - Generic image to ps filter
+im-config - Im-config - set up input method configuration for x window system
+imgtoppm - Convert an img-whatnot file into a portable pixmap
+im-launch - Im-launch - launch input method end execute session program
+import - Saves any visible window on an x server and outputs it as an
+import-im6 - Saves any visible window on an x server and outputs it as an
+info - Read info documents
+infobrowser - Read info documents
+infocmp - Compare or print out terminfo descriptions
+infotocap - Convert a terminfo description into a termcap description
+inifile - Openlink virtuoso opensource ini file editor
+init-checkconf - Init-checkconf - manual page for init-checkconf
+initctl2dot - Manual page for initctl2dot
+inputattach - Attach a serial line to an input-layer device
+install - Copy files and set attributes
+install-info - Install-info - update info/dir entries
+instmodsh - A shell to examine installed modules
+intel_aubdump - Launch an application and capture rendering to an aub
+intel_audio_dump - Dumps the intel gpu registers for hdmi audio setup.
+intel_bios_dumper - Saves the intel video bios contents to a file.
+intel_bios_reader - Parses  an  intel  bios  and displays many of its
+intel_error_decode - Decodes an intel gpu dump automatically captured
+intel_gpu_frequency - Manual page for intel_gpu_frequency
+intel_gpu_top - Display a top-like summary of intel gpu usage
+intel_gtt - Dump the contents of an intel gpu's gtt
+intel_infoframes - View and change hdmi infoframes
+intel_lid - Polls  the  values  of different reports about laptop lid
+intel_panel_fitter - Change the panel fitter settings
+intel_reg - Intel graphics register multitool
+intel_stepping - Display the stepping information for an intel gpu
+intel-virtual-output - Intel-virtual-output  - utility for connecting the integrated intel gpu
+interdiff - Show differences between two diff files
+intltool-extract - Intltool-extract - generate header files which can be read by gettext
+intltoolize - Copy intltool related files to software package
+intltool-merge - Intltool-merge - merge translated strings into various types of file
+intltool-prepare - Intltool-prepare - prepare software to make use of intltool
+intltool-update - Intltool-update  - updates po template file and merge translations with
+ionice - Set or get process i/o scheduling class and priority
+ipcmk - Make various ipc resources
+ipcrm - Remove certain ipc resources
+ipcs - Show information on ipc facilities
+iptables-xml - Iptables-xml — convert iptables-save format to xml
+irb - Irb — interactive ruby shell
+irb1.9.1 - Interactive ruby
+irb2.3 - Irb — interactive ruby shell
+ischroot - Detect if running in a chroot
+isodump - Utility programs for dumping and
+isoinfo - Utility programs for dumping and
+isovfy - Utility programs for dumping and
+ispell-wrapper - Ispell-wrapper - smart wrapper for ispell
+isql-vt - Isql-vt - openlink virtuoso opensource sql interface
+isqlw-vt - Isql-vt - openlink virtuoso opensource sql interface
+join - Join lines of two files on a common field
+jpegtopnm - Convert jpeg/jfif file to portable pixmap or graymap
+jpgicc - Little cms icc profile applier for jpeg.
+js - Server-side javascript
+json_pp - Json::pp command utility
+jwt - Python implementation of json web token
+jwt3 - Python implementation of json web token
+kbdinfo - Obtain information about the status of a console
+kbuildsycoca4 - Rebuilds the system configuration cache.
+kbuildsycoca5 - Rebuilds the kservice desktop file system configuration
+kbxutil - List, export, import keybox data
+kcookiejar4 - Kde http cookie daemon
+kde4-config - Kde4-config - prints kde installation paths
+kded4 - Kde daemon - triggers sycoca database updates when needed.
+kdeinit4 - Kde process launcher.
+killall - Kill processes by name
+kioclient - Command-line tool for network-transparent operations
+kjs - Kde ecmascript compatible interpreter
+kjscmd - Kde kjsembed interpreter
+kmodsign - Kernel module signing tool
+koi8rxterm - X terminal emulator for koi8-r environments
+kpackagetool5 - Install, list, remove plasma packages
+kross - Kde application to run kross scripts.
+l2ping - Send l2cap echo request and receive answer
+l2test - L2cap testing
+last - Show a listing of last logged in users
+lastb - Show a listing of last logged in users
+lastlog - Reports the most recent login of all users or of a given user
+lavadecode - Decode a lavaflow stream into human readable form.
+lcf - Determine  which  of  the  historical  versions  of a config is
+ld - The gnu linker
+ld.bfd - The gnu linker
+ldd - Print shared object dependencies
+ld.gold - The gnu elf linker
+leaftoppm - Convert interleaf image format to a portable anymap
+less - Opposite of more
+lessecho - Expand metacharacters
+lessfile - "input preprocessor" for  less.
+lesskey - Specify key bindings for less
+lesspipe - "input preprocessor" for  less.
+lexgrog - Parse header information in man pages
+liblinear-predict - Liblinear-predict  - make predictions based on a trained linear classi‐
+liblinear-train - Liblinear-train - train a linear classifier and produce a model
+libnetcfg - Configure libnet
+libpng12-config - Libpng12-config - get information about installed libpng library
+libpng-config - Libpng12-config - get information about installed libpng library
+line - Read one line
+link - Call the link function to create a link to a file
+linkicc - Little cms device link generator.
+lintian - Static analysis tool for debian packages
+lintian-info - Lintian-info - give detailed information about lintian's error tags
+lintian-lab-tool - Lintian-lab-tool - perform common operations on/involving laboratories
+linux32 - Change reported architecture in new program environment and
+linux64 - Change reported architecture in new program environment and
+linux-version - Linux-version - operate on linux kernel version strings
+lispmtopgm - Convert a lisp machine bitmap file into pgm format
+listres - List resources in widgets
+lnstat - Unified linux network statistics
+loadkeys - Load keyboard translation tables
+loadunimap - Load the kernel unicode-to-font mapping table
+locale - Get locale-specific information
+localectl - Control the system locale and keyboard layout settings
+localedef - Compile locale definition files
+locate - Find files by name
+lockfile-check - Lockfile-progs  - command-line programs to safely lock and unlock files
+lockfile-create - Lockfile-progs  - command-line programs to safely lock and unlock files
+lockfile-remove - Lockfile-progs  - command-line programs to safely lock and unlock files
+lockfile-touch - Lockfile-progs  - command-line programs to safely lock and unlock files
+logger - Enter messages into the system log
+logname - Print user´s login name
+look - Look — display lines beginning with a given string
+lorder - Lorder — list dependencies for object files
+lp - Print files
+lpoptions - Display or set printer options and defaults
+lpq - Show printer queue status
+lpr - Print files
+lprm - Cancel print jobs
+lpstat - Print cups status information
+lsattr - List file attributes on a linux second extended file system
+lsb_release - Print distribution-specific information
+lscpu - Display information about the cpu architecture
+lsdiff - Show which files are modified by a patch
+lshal - List hal devices
+lshw - List hardware
+lsinitramfs - List content of an initramfs image
+lsipc - Show  information on ipc facilities currently employed in the
+lslocks - List local system locks
+lslogins - Display information about known users in the system
+lsof - List open files
+lspci - List all pci devices
+lspgpot - Extracts  the  ownertrust values from pgp keyrings and list
+lsusb - List usb devices
+ltrace - A library call tracer
+luit - Locale and iso 2022 support for unicode terminals
+lwp-download - Lwp-download - fetch large files from the web
+lwp-dump - Lwp-dump - see what headers and content is returned for a url
+lwp-mirror - Lwp-mirror - simple mirror utility
+lwp-request - Lwp-request, get, post, head - simple command line user agent
+lxterm - Locale-sensitive wrapper for xterm
+lz - Gunzips and shows a listing of a gzip'd tar'd archive
+lzcat - Compress or decompress .xz and
+lzcmp - Compare compressed files
+lzdiff - Compare compressed files
+lzegrep - Search compressed files for a regular expression
+lzfgrep - Search compressed files for a regular expression
+lzgrep - Search compressed files for a regular expression
+lzless - View xz or lzma compressed (text) files
+lzma - Compress or decompress .xz and
+lzmainfo - Show information stored in the .lzma file header
+lzmore - View xz or lzma compressed (text) files
+m4 - Macro processor
+macptopbm - Convert a macpaint file into a portable bitmap
+mail-lock - Lockfile-progs  - command-line programs to safely lock and unlock files
+mailmail - Twisted sendmail compatibility script
+mail-touchlock - Lockfile-progs  - command-line programs to safely lock and unlock files
+mail-unlock - Lockfile-progs  - command-line programs to safely lock and unlock files
+make - Gnu make utility to maintain groups of programs
+makeconv - Compile a converter table
+make-first-existing-target - Make-first-existing-target - runs make on one of several targets
+man - An interface to the on-line reference manuals
+mandb - Create or update the manual page index caches
+manhole - Connect to a twisted manhole service
+manpath - Determine search path for manual pages
+mapscrn - Load screen output mapping table
+mawk - Pattern scanning and text processing language
+mcheck - Verify all files on an ms-dos formatted disk
+mcomp - Compares two files using mtools
+mcookie - Generate magic cookies for xauth
+mc-tool - Mc-tool - manipulate mission control accounts from the command line
+mc-wait-for-name - Mc-wait-for-name - run until a d-bus name appears on the session bus
+md5sum - Compute and check md5 message digest
+md5sum.textutils - Compute and check md5 message digest
+mdatopbm - Convert a microdesign .mda or .mdp file into a portable bit‐
+meinproc4 - Kde translator for xml
+mesg - Display (or do not display) messages from other users
+mgrtopbm - Convert a mgr bitmap into a portable bitmap
+mimeopen - Open files by mimetype
+mimetype - Determine file type
+min12xxw - Convert pbmraw streams to minolta pagepro 12xxw languages
+mkfifo - Make fifos (named pipes)
+mkfontdir - Create an index of x font files in a directory
+mkfontscale - Create an index of scalable font files for x
+mk_modmap - Translate a linux keytable file into an xmodmap file
+mksquashfs - Tool to create and append to squashfs filesystems
+mkzftree - Create a zisofs/rockridge compressed file tree
+mlocate - Find files by name
+mlock - Mlock -- lock a mailbox
+mmcli - Control and monitor the modemmanager
+mogrify - Resize  an  image,  blur, crop, despeckle, dither, draw on,
+mogrify-im6 - Resize  an  image,  blur, crop, despeckle, dither, draw on,
+montage - Create  a  composite  image  by  combining several separate
+montage-im6 - Create  a  composite  image  by  combining several separate
+mousetweaks - Accessibility enhancements for pointing devices
+mscompress - Compress data using lz77 algorithm
+msexpand - Decompress  data  compressed  using  mscompress(1) or com‐
+msgattrib - Attribute matching and manipulation on message catalog
+msgcat - Combines several message catalogs
+msgcmp - Compare message catalog and template
+msgcomm - Match two message catalogs
+msgconv - Character set conversion for message catalog
+msgen - Create english message catalog
+msgexec - Process translations of message catalog
+msgfilter - Edit translations of message catalog
+msgfmt - Compile message catalog to binary format
+msggrep - Pattern matching on message catalog
+msginit - Initialize a message catalog
+msgmerge - Merge message catalog and template
+msgunfmt - Uncompile message catalog from binary format
+msguniq - Unify duplicate translations in message catalog
+mtr - A network diagnostic tool
+mtrace - Interpret the malloc trace log
+mtvtoppm - Convert output from the mtv or prt ray tracers into a porta‐
+mxtar - Wrapper for using gnu tar directly from a floppy disk
+namei - Follow a pathname until a terminal point is found
+nautilus - The gnome file manager
+nautilus-connect-server - Nautilus-connect-server - to access a remote server
+nautilus-sendto - Nautilus-sendto - convenience application to send a file via email
+nawk - Pattern scanning and text processing language
+ncal - Cal, ncal — displays a calendar and the date of easter
+ncat - Concatenate and redirect sockets
+ncurses5-config - Ncurses5-config - helper script for ncurses libraries
+ndg_httpclient - Enhanced https support for httplib and urllib2 using
+ndiff - Utility to compare the results of nmap scans
+neotoppm - Convert an atari neochrome .neo into a portable pixmap
+neqn - Format equations for ascii output
+net - Tool for administration of samba and remote cifs servers.
+netkit-ftp - Ftp — internet file transfer program
+newgrp - Log in to a new group
+ngettext - Translate message and choose plural form
+nice - Run a program with modified scheduling priority
+nl - Number lines of files
+nm - List symbols from object files
+nmap - Network exploration tool and security / port scanner
+nm-applet - Nm-applet - network monitor and control gui applet
+nmblookup - Netbios over tcp/ip client used to lookup netbios names
+nmcli - Command-line tool for controlling networkmanager
+nm-connection-editor - Nm-connection-editor - network connection editor for networkmanager
+nm-online - Nm-online - ask networkmanager whether the network is connected
+nmtui - Text user interface for controlling networkmanager
+nmtui-connect - Text user interface for controlling networkmanager
+nmtui-edit - Text user interface for controlling networkmanager
+nmtui-hostname - Text user interface for controlling networkmanager
+node-gyp - Node-gyp -- native addon build tool for node
+nodejs - Server-side javascript
+nohup - Run a command immune to hangups, with output to a non-tty
+notify-send - Notify-send - a program to send desktop notifications
+nping - Network packet generation tool / ping utility
+npm - Javascript package manager
+nproc - Print the number of processing units available
+nroff - Emulate nroff command with groff
+nsenter - Run program with namespaces of other processes
+nslookup - Query internet name servers interactively
+nstat - Network statistics tools.
+nsupdate - Dynamic dns update utility
+ntfsdecrypt - Decrypt or update ntfs files encrypted according to efs
+numfmt - Convert numbers from/to human-readable strings
+oakdecode - Decode an oakt printer stream into human readable form.
+obex-data-server - Obex-data-server - d-bus service providing obex functionality
+objcopy - Copy and translate object files
+objdump - Display information from object files.
+oclock - Round x clock
+od - Dump files in octal and other formats
+odbcinst - Command line tool for batch odbc configuration
+ods-server - Ods-server - minimal obex server based on obex-data-server
+on_ac_power - Test whether computer is running on ac power
+onboard - On-screen keyboard
+onboard-settings - Onboard-settings - on-screen keyboard (configuration dialog)
+openssl - Openssl command line tool
+opldecode - Decode  a  raster object (opl) stream into human readable
+orca - A scriptable screen reader
+p11-kit - P11-kit - tool for operating on configured pkcs#11 modules
+pacat - Play back or record raw or encoded audio streams on a pulseau‐
+pacmd - Reconfigure a pulseaudio sound server during runtime
+pactl - Control a running pulseaudio sound server
+padsp - Pulseaudio oss wrapper
+pager - Opposite of more
+palmtopnm - Convert a palm pixmap into a portable anymap
+pamcut - Cut a rectangle out of a pam, pbm, pgm, or ppm image
+pamdeinterlace - Remove ever other row from a pam/pnm image
+pamdice - Slice a netpbm image into many horizontally and/or vertically
+pamfile - Describe a netpbm (pam or pnm) file
+pamoil - Turn a pam image into an oil painting
+pamon - Play back or record raw or encoded audio streams on a pulseau‐
+pamstack - Stack planes of multiple pam images into one pam image
+pamstretch - Scale up a pnm or pam image by interpolating between pix‐
+pamstretch-gen - Pamstretch-gen  -  use  pamstretch and pnmscale to scale by non-integer
+paperconf - Print paper configuration information
+paplay - Play back or record raw or encoded audio streams on a pulseau‐
+parec - Play back or record raw or encoded audio streams on a pulseau‐
+parecord - Play back or record raw or encoded audio streams on a pulseau‐
+parsechangelog - Parse debian changelogs and output them in other
+partx - Tell  the  kernel about the presence and numbering of on-disk
+passwd - Change user password
+paste - Merge lines of files
+pasuspender - Temporarily suspend pulseaudio
+patch - Apply a diff file to an original
+pathchk - Check whether file names are valid or portable
+pax11publish - Pulseaudio x11 credential utility
+pbmclean - Flip isolated pixels in portable bitmap
+pbmlife - Apply conway's rules of life to a portable bitmap
+pbmmake - Create a blank bitmap of a specified size
+pbmmask - Create a mask bitmap from a regular bitmap
+pbmpage - Create a one page test pattern for printing
+pbmpscale - Enlarge a portable bitmap with edge smoothing
+pbmreduce - Read a portable bitmap and reduce it n times
+pbmtext - Render text into a bitmap
+pbmtextps - Render text into a bitmap via postscript
+pbmto10x - Convert a portable bitmap into gemini 10x printer graphics
+pbmtoascii - Convert a portable bitmap into ascii graphics
+pbmtoatk - Convert portable bitmap to andrew toolkit raster object
+pbmtobbnbg - Convert a portable bitmap into bitgraph graphics
+pbmtocmuwm - Convert a portable bitmap into a cmu window manager bitmap
+pbmtoepsi - Convert a portable bitmap into an encapsulated postscript
+pbmtoepson - Convert a portable bitmap into epson printer graphics
+pbmtog3 - Convert a portable bitmap into a group 3 fax file
+pbmtogem - Convert a portable bitmap into a gem .img file
+pbmtogo - Convert a portable bitmap into compressed graphon graphics
+pbmtoicon - Convert a portable bitmap into a sun icon
+pbmtolj - Convert a portable bitmap into hp laserjet format
+pbmtomacp - Convert a portable bitmap into a macpaint file
+pbmtomda - Convert a portable bitmap to a microdesign .mda
+pbmtomgr - Convert a portable bitmap into a mgr bitmap
+pbmtonokia - Convert a portable bitmap to nokia smart messaging formats
+pbmtopgm - Convert  portable  bitmap to portable graymap by averaging
+pbmtopi3 - Convert a portable bitmap into an atari degas .pi3 file
+pbmtoplot - Convert a portable bitmap into a unix plot(5) file
+pbmtoppa - Convert  pbm  image to hp printer performance architecture
+pbmtopsg3 - Convert pbm images to postscript with g3 fax compression
+pbmtoptx - Convert a portable bitmap into printronix printer graphics
+pbmtowbmp - Convert a portable bitmap to a wireless bitmap (wbmp) file
+pbmtox10bm - Convert a portable bitmap into an x10 bitmap
+pbmtoxbm - Convert a portable bitmap into an x11 bitmap
+pbmtoybm - Convert a portable bitmap into a bennet yee "face" file
+pbmtozinc - Convert a portable bitmap into a zinc bitmap
+pbmupc - Create a universal product code bitmap
+pcimodules - List  kernel  driver modules available for all currently
+pcre-config - Pcre-config - program to return pcre configuration
+pcxtoppm - Convert a pcx file into a portable pixmap
+pdb - The python debugger
+pdb2.7 - The python debugger
+pdb3 - The python debugger
+pdb3.5 - The python debugger
+pdf2dsc - Generate a postscript page list of a pdf document
+pdf2ps - Ghostscript pdf to postscript translator
+pdfdetach - Portable  document  format  (pdf)  document embedded file
+pdffonts - Portable document format (pdf) font analyzer (version 3.03)
+pdfimages - Portable  document  format (pdf) image extractor (version
+pdfinfo - Portable document format (pdf) document information extractor
+pdfseparate - Portable document format (pdf) page extractor
+pdftocairo - Portable     document     format     (pdf)     to
+pdftohtml - Program to convert pdf files into html, xml and png images
+pdftoppm - Portable document format (pdf) to portable pixmap (ppm) con‐
+pdftops - Portable document format (pdf) to postscript converter (ver‐
+pdftotext - Portable document format (pdf) to text converter (version
+pdfunite - Portable document format (pdf) page merger
+peekfd - Peek at file descriptors of running processes
+perl - The perl 5 language interpreter
+perl5.22.1 - The perl 5 language interpreter
+perl5.22-x86_64-linux-gnu - The perl 5 language interpreter
+perlbug - How to submit bug reports on perl
+perlivp - Perl installation verification procedure
+perlthanks - How to submit bug reports on perl
+pf2afm - Make  an  afm  file from postscript (pfb/pfa/pfm) font files
+pfbtopfa - Convert  postscript .pfb fonts to .pfa format using ghost‐
+pftp - Ftp — internet file transfer program
+pg - Browse pagewise through text files
+pgmbentley - Bentleyize a portable graymap
+pgmcrater - Create cratered terrain by fractal forgery
+pgmedge - Edge-detect a portable graymap
+pgmenhance - Edge-enhance a portable graymap
+pgmhist - Print a histogram of the values in a portable graymap
+pgmkernel - Generate a convolution kernel
+pgmnoise - Create a graymap made up of white noise
+pgmnorm - Normalize the contrast in a netbpm image
+pgmoil - Turn a pam image into an oil painting
+pgmramp - Generate a grayscale ramp
+pgmslice - Extract one line of pixel values out of a portable graymap
+pgmtexture - Calculate textural features on a portable graymap
+pgmtofs - Convert portable graymap to usenix facesaver(tm) format
+pgmtolispm - Convert a portable graymap into lisp machine format
+pgmtopbm - Convert a portable graymap into a portable bitmap
+pgmtoppm - Colorize a portable graymap into a portable pixmap
+pgrep - Look  up  or signal processes based on name and other
+pi1toppm - Convert an atari degas .pi1 into a portable pixmap
+pi3topbm - Convert an atari degas .pi3 file into a portable bitmap
+pic - Compile pictures for troff or tex
+pico - Nano's another editor, an enhanced free pico clone
+piconv - Piconv -- iconv(1), reinvented in perl
+pinentry - Pinentry-gnome3 - pin or pass-phrase entry dialog for gnupg
+pinentry-curses - Pinentry-curses - pin or pass-phrase entry dialog for gnupg
+pinentry-gnome3 - Pinentry-gnome3 - pin or pass-phrase entry dialog for gnupg
+pinentry-x11 - Pinentry-gnome3 - pin or pass-phrase entry dialog for gnupg
+pinky - Lightweight finger
+pjtoppm - Convert an hp paintjet file to a portable pixmap
+pkaction - Get details about a registered action
+pkcheck - Check whether a process is authorized
+pkexec - Execute a command as another user
+pkg-config - Pkg-config - return metainformation about installed libraries
+pkgdata - Package data for use by icu
+pkill - Look  up  or signal processes based on name and other
+pkttyagent - Textual authentication helper
+pl2pm - Rough tool to translate perl4 .pl files to perl5 .pm modules.
+plainbox-qml-shell - Plainbox-qml-shell - standalone qml-native shell
+plainbox-trusted-launcher-1 - Plainbox-trusted-launcher-1 - execute job command as another user
+plank - Stupidly simple.
+plasmapkg - Install, list, remove plasma packages
+plasmapkg2 - Install, list, remove plasma packages
+pldd - Display dynamic shared objects linked into a process
+plog - Starts up, shuts down or lists the log of ppp connec‐
+pmap - Report memory map of a process
+pm-is-supported - Pm-is-supported - test whether suspend or hibernate is supported.
+pngtopnm - Convert  a  portable  network  graphics file into portable
+pnm2ppa - Convert portable anymap (pnm) images to hp's ppa printer for‐
+pnmalias - Antialias a portable anyumap.
+pnmarith - Perform arithmetic on two portable anymaps
+pnmcat - Concatenate portable anymaps
+pnmcolormap - Create quantization color map for a portable anymap
+pnmcomp - Composite (overlay) two portable anymap files together
+pnmconvol - General mxn convolution on a portable anymap
+pnmcrop - Crop a portable anymap
+pnmcut - Cut a rectangle out of a portable anymap
+pnmdepth - Change the maxval in a portable anymap
+pnmenlarge - Read a portable anymap and enlarge it n times
+pnmfile - Describe a portable anymap
+pnmflip - Perform one or more flip operations on a portable anymap
+pnmgamma - Perform gamma correction on a portable anymap
+pnmhisteq - Histogram equalise a portable anymap
+pnmhistmap - Draw a histogram for a pgm or ppm file
+pnmindex - Build a visual index of a bunch of anymaps
+pnminterp - Scale up a pnm or pam image by interpolating between pix‐
+pnminterp-gen - Pamstretch-gen  -  use  pamstretch and pnmscale to scale by non-integer
+pnminvert - Invert a portable anymap
+pnmmargin - Add a border to a portable anymap
+pnmmontage - Create a montage of portable anymaps
+pnmnlfilt - Non-linear filters: smooth, alpha trim mean, optimal esti‐
+pnmnoraw - Convert portable any map to plain (ascii) anymap format
+pnmnorm - Normalize the contrast in a netbpm image
+pnmpad - Add borders to portable anymap
+pnmpaste - Paste a rectangle into a portable anymap
+pnmpsnr - Compute the difference between two portable anymaps
+pnmquant - Quantize the colors in a netpbm image to a smaller set
+pnmremap - Replace colors in a ppm image with colors from another set
+pnmrotate - Rotate a portable anymap by some angle
+pnmscale - Scale a portable anymap
+pnmscalefixed - Scale a portable anymap quickly, but less accurate
+pnmshear - Shear a portable anymap by some angle
+pnmsmooth - Smooth out an image
+pnmsplit - Split  a multi-image portable anymap into multiple single-
+pnmtile - Replicate a portable anymap into a specified size
+pnmtofiasco - Convert a portable anymap to fiasco compressed file
+pnmtofits - Convert a portable anymap into fits format
+pnmtojpeg - Convert pnm image to a jfif ("jpeg") image
+pnmtopalm - Convert a portable anymap into a palm pixmap
+pnmtoplainpnm - Convert portable any map to plain (ascii) anymap format
+pnmtopng - Convert a portable anymap into a portable network graphics
+pnmtops - Convert portable anymap to postscript
+pnmtorast - Convert a portable pixmap into a sun rasterfile
+pnmtorle - Convert a netpbm image file into an rle image file.
+pnmtosgi - Convert a portable anymap to a sgi image file
+pnmtosir - Convert a portable anymap into a solitaire format
+pnmtotiff - Convert a portable anymap into a tiff file
+pnmtotiffcmyk - Convert a portable anymap into a cmyk encoded tiff file
+pnmtoxwd - Convert a portable anymap into an x11 window dump
+po2debconf - Merge master templates file and po files
+pod2html - Convert .pod files to .html files
+pod2latex - Convert pod documentation to latex format
+pod2man - Convert pod data to formatted *roff input
+pod2text - Convert pod data to formatted ascii text
+pod2usage - Print usage messages from embedded pod docs in files
+podchecker - Check the syntax of pod format documentation files
+podebconf-display-po - Podebconf-display-po - display content of a po file in a debconf
+podebconf-report-po - Podebconf-report-po - send outdated debconf po files to the last
+podselect - Print selected sections of pod documentation on standard
+poff - Starts up, shuts down or lists the log of ppp connec‐
+pon - Starts up, shuts down or lists the log of ppp connec‐
+POST - Lwp-request, get, post, head - simple command line user agent
+ppdc - Cups ppd compiler (deprecated)
+ppdhtml - Cups html summary generator (deprecated)
+ppdi - Import ppd files (deprecated)
+ppdmerge - Merge ppd files (deprecated)
+ppdpo - Ppd message catalog generator (deprecated)
+ppm3d - Convert two portable pixmap into a red/blue 3d glasses pixmap
+ppmbrighten - Change an images saturation and value from an hsv map
+ppmchange - Change  all  pixels of one color to another in a portable
+ppmcie - Draw a cie color chart as a ppm image
+ppmcolormask - Produce mask of areas of a certain color in a ppm file
+ppmcolors - Generate a color map of all colors of a certain maxval
+ppmdim - Dim a portable pixmap down to total blackness
+ppmdist - Simplistic grayscale assignment for machine generated, color
+ppmdither - Ordered dither for color images
+ppmfade - Generate a transition between two image files using special
+ppmflash - Brighten a picture up to complete white-out
+ppmforge - Fractal forgeries of clouds, planets, and starry skies
+ppmhist - Print a histogram of a portable pixmap
+ppmlabel - Add text to a portable pixmap
+ppmmake - Create a pixmap of a specified size and color
+ppmmix - Blend together two portable pixmaps
+ppmnorm - Normalize the contrast in a netbpm image
+ppmntsc - Make a portable pixmap look like taken from an american tv
+ppmpat - Make a pretty pixmap
+ppmquant - Quantize the colors in a portable pixmap down to a specified
+ppmquantall - Run  ppmquant  on a bunch of files all at once, so they
+ppmqvga - 8 plane quantization
+ppmrainbow - Generate a rainbow
+ppmrelief - Run a laplacian relief filter on a portable pixmap
+ppmshadow - Add simulated shadows to a portable pixmap image
+ppmshift - Shift lines of a portable pixmap left or right by a random
+ppmspread - Displace a portable pixmap's pixels by a random amount
+ppmtoacad - Convert portable pixmap to autocad database or slide
+ppmtobmp - Convert a portable pixmap into a bmp file
+ppmtoeyuv - Convert a portable pixmap into a berkeley yuv file
+ppmtogif - Convert a portable pixmap into a gif file
+ppmtoicr - Convert a portable pixmap into ncsa icr format
+ppmtoilbm - Convert a portable pixmap into an ilbm file
+ppmtojpeg - Convert pnm image to a jfif ("jpeg") image
+ppmtoleaf - Convert portable pixmap to interleaf image format
+ppmtolj - Convert a portable pixmap to an hp laserjet pcl 5 color file
+ppmtomap - Extract all colors from a portable pixmap
+ppmtomitsu - Convert a portable pixmap to a mitsubishi s340-10 file
+ppmtompeg - Encodes mpeg-1 bitstreams
+ppmtoneo - Convert a portable pixmap into an atari neochrome .neo file
+ppmtopcx - Convert a portable pixmap into a pcx file
+ppmtopgm - Convert a portable pixmap into a portable graymap
+ppmtopi1 - Convert a portable pixmap into an atari degas .pi1 file
+ppmtopict - Convert a portable pixmap into a macintosh pict file
+ppmtopj - Convert a portable pixmap to an hp paintjet file
+ppmtopuzz - Convert a portable pixmap into an x11 "puzzle" file
+ppmtorgb3 - Separate a portable pixmap into three portable graymaps
+ppmtosixel - Convert a portable pixmap into dec sixel format
+ppmtotga - Convert portable pixmap into a truevision targa file
+ppmtouil - Convert a portable pixmap into a motif uil icon file
+ppmtowinicon - Convert 1 or more portable pixmaps into a windows .ico
+ppmtoxpm - Convert a portable pixmap into an x11 pixmap
+ppmtoyuv - Convert a portable pixmap into an abekas yuv file
+ppmtoyuvsplit - Convert  a  portable pixmap into 3 subsampled raw yuv
+ppmtv - Make a portable pixmap look like taken from an american tv
+pr - Convert text files for printing
+precat - Prefix delta compressor for aspell
+preconv - Convert encoding of input files to something gnu troff under‐
+prename - Renames multiple files
+preparetips5 - Preparetips5
+preunzip - Prefix delta compressor for aspell
+prezip - Prefix delta compressor for aspell
+prezip-bin - Prezip-bin - prefix zip delta word list compressor/decompressor
+print - Run-mailcap,  view,  see,  edit,  compose, print - execute programs via
+printafm - Print the metrics from a postscript font in afm format using
+printenv - Print all or part of environment
+printerbanner - Printerbanner — print large banner on printer
+printer-profile - Printer-profile - profile using x-rite colormunki and argyll cms
+printf - Format and print data
+prlimit - Get and set process resource limits
+prove - Run tests through a tap harness.
+prtstat - Print statistics of a process
+ps2ascii - Ghostscript translator from postscript or pdf to ascii
+ps2epsi - Generate conforming encapsulated postscript
+ps2pdf - Convert postscript to pdf using ghostscript
+ps2pdf12 - Convert postscript to pdf using ghostscript
+ps2pdf13 - Convert postscript to pdf using ghostscript
+ps2pdf14 - Convert postscript to pdf using ghostscript
+ps2pdfwr - Convert  postscript  to pdf without specifying compatibil‐
+ps2ps - Ghostscript postscript "distiller"
+psfaddtable - Add a unicode character table to a console font
+psfgettable - Extract the embedded unicode character table from a con‐
+psfstriptable - Remove the embedded unicode character table from a con‐
+psfxtable - Handle unicode character tables for console fonts
+psicc - Little cms postscript converter.
+psidtopgm - Convert postscript "image" data into a portable graymap
+pstopnm - Convert a postscript file into a portable anymap
+pstree - Display a tree of processes
+pstree.x11 - Display a tree of processes
+pstruct - Dump c structures as generated from "cc -g -s" stabs
+ptar - A tar-like program written in perl
+ptardiff - Program that diffs an extracted archive against an
+ptargrep - Apply pattern matching to the contents of files in a tar
+ptx - Produce a permuted index of file contents
+pulseaudio - The pulseaudio sound system
+purple-remote - Purple-remote - send remote commands to pidgin/finch
+pwdx - Report current working directory of a process
+py3clean - Removes .pyc and .pyo files
+py3compile - Byte compile python 3 source files
+py3versions - Print python3 version information
+pybuild - Invokes various build systems for requested python versions
+pyclean - Removes .pyc and .pyo files
+pycompile - Byte compile python source files
+pydoc - The python documentation tool
+pydoc2.7 - The python documentation tool
+pydoc3 - The python documentation tool
+pydoc3.5 - The python documentation tool
+pygettext - Python equivalent of xgettext(1)
+pygettext2.7 - Python equivalent of xgettext(1)
+pygettext3 - Python equivalent of xgettext(1)
+pygettext3.5 - Python equivalent of xgettext(1)
+pygmentize - Highlights the input file
+pyhtmlizer - Pretty-print python source as html
+python - An interpreted, interactive, object-oriented programming lan‐
+python2 - An interpreted, interactive, object-oriented programming lan‐
+python2.7 - An interpreted, interactive, object-oriented programming lan‐
+python3 - An interpreted, interactive, object-oriented programming lan‐
+python3.5 - An interpreted, interactive, object-oriented programming lan‐
+python3.5m - An interpreted, interactive, object-oriented programming lan‐
+python3m - An interpreted, interactive, object-oriented programming lan‐
+pyversions - Print python version information
+qdbus - A communication-interface for qt-based applications
+qpdf - Pdf transformation software
+qpdldecode - Decode a qpdl stream into human readable form.
+qrttoppm - Convert  output  from  the  qrt ray tracer into a portable
+qtchooser - A wrapper used to select between qt development binary ver‐
+R - A language for data analysis and graphics
+rake - A make-like build utility for ruby
+rake1.9.1 - A ruby build program with capabilities similar to make
+ranlib - Generate index to archive.
+rasttopnm - Convert a sun rasterfile into a portable anymap
+rawtopgm - Convert raw grayscale bytes into a portable graymap
+rawtoppm - Convert raw rgb bytes into a portable pixmap
+rcp - Scp — secure copy (remote file copy program)
+rctest - Rfcomm testing
+rdiffdir - Compute and apply signatures and diffs to directories
+rdoc - Generate documentation from ruby script files
+rdoc1.9.1 - Generate documentation from ruby script files
+rdoc2.3 - Generate documentation from ruby script files
+readelf - Displays information about elf files.
+readom - Read or write data compact discs
+realpath - Print the resolved path
+recode-sr-latin - Recode-sr-latin - convert serbian text from cyrillic to latin script
+recountdiff - Recompute patch counts and offsets
+rediff - Fix offsets and counts of a hand-edited diff
+remmina - Remote desktop client for gnome desktop environment
+rename - Renames multiple files
+rename.ul - Rename files
+rendercheck - Simple tests of the x render extension.
+renice - Alter priority of running processes
+reset - Terminal initialization
+resize - Set environment and terminal settings to current xterm window
+resizecons - Change kernel idea of the console size
+resizepart - Tell the kernel about the new size of a partition
+rev - Reverse lines characterwise
+rfcomm - Rfcomm configuration utility
+rgb3toppm - Combine three portable graymaps into one portable pixmap
+rgrep - Print lines matching a pattern
+rhythmbox - Music player and library for tagged files using gstreamer
+rhythmbox-client - Rhythmbox-client - controls a running instance of rhythmbox
+ri - Ri — ruby api reference front end
+ri1.9.1 - Ruby information at your fingertips
+ri2.3 - Ri — ruby api reference front end
+rimraf - Fast deep deletion (like rm -rf)
+rletopnm - Convert a utah raster tools rle image file into a pnm image
+rlogin - Ssh — openssh ssh client (remote login program)
+routef - List routes with pretty output format
+routel - List routes with pretty output format
+rpcclient - Tool for executing client side ms-rpc functions
+rpcgen - An rpc protocol compiler
+rpdump - Alpine remote data utility
+rpl8 - Firmware loader for dvd drives
+rpload - Alpine remote data utility
+Rscript - Front end for scripting with r
+rsh - Ssh — openssh ssh client (remote login program)
+rstart - A sample implementation of a remote start client
+rstartd - A sample implementation of a remote start rsh helper
+rsync - A fast, versatile, remote (and local) file-copying tool
+rtstat - Unified linux network statistics
+ruby - Ruby — interpreted object-oriented scripting language
+ruby1.9.1 - Ruby — interpreted object-oriented scripting language
+ruby2.3 - Ruby — interpreted object-oriented scripting language
+runcon - Run command with specified security context
+run-mailcap - Run-mailcap,  view,  see,  edit,  compose, print - execute programs via
+run-with-aspell - Run-with-aspell  -  script to help use gnu aspell as an ispell replace‐
+rview - Vi improved, a programmers text editor
+rvim - Vi improved, a programmers text editor
+samba-regedit - Samba-regedit - ncurses based tool to manage the samba registry
+samba-tool - Samba-tool - main samba administration tool.
+sane-find-scanner - Sane-find-scanner - find scsi and usb scanners and their device files
+savelog - Save a log file
+sbattach - Uefi secure boot detached signature tool
+sbigtopgm - Convert an sbig ccdops file into a portable graymap
+sbsiglist - Create efi_signature_list signature databases
+sbsign - Uefi secure boot signing tool
+sbvarsign - Uefi authenticated variable signing tool
+sbverify - Uefi secure boot verification tool
+scanimage - Scan an image
+scp - Scp — secure copy (remote file copy program)
+screendump - Dump the contents of a virtual console to stdout
+script - Make typescript of terminal session
+scriptreplay - Play back typescripts, using timing information
+sdiff - Side-by-side merge of file differences
+sdptool - Sdptool — control and interrogate sdp servers
+seahorse - Passwords and keys
+see - Run-mailcap,  view,  see,  edit,  compose, print - execute programs via
+select-default-iwrap - Select-default-iwrap - selects the user default ispell dictionary for
+select-editor - Select-editor  - select your default sensible-editor from all installed
+semver - The semantic versioner for npm
+sensible-browser - Sensible-editor,  sensible-pager,  sensible-browser - sensible editing,
+sensible-editor - Sensible-editor,  sensible-pager,  sensible-browser - sensible editing,
+sensible-pager - Sensible-editor,  sensible-pager,  sensible-browser - sensible editing,
+seq - Print a sequence of numbers
+session-installer - Session-installer  -  allows  applications to easily install and remove
+session-migration - Session-migration - migrate in user session settings.
+sessreg - Manage utmpx/wtmpx entries for non-init clients
+setarch - Change reported architecture in new program environment and
+setfacl - Set file access control lists
+setkeycodes - Load kernel scancode-to-keycode mapping table entries
+setleds - Set the keyboard leds
+setlogcons - Send kernel messages to console n
+setmetamode - Define the keyboard meta key handling
+setpci - Configure pci devices
+setsid - Run a program in a new session
+setterm - Set terminal attributes
+setxkbmap - Set the keyboard using the x keyboard extension
+sftp - Sftp — secure file transfer program
+sg - Execute command as different group id
+sgitopnm - Convert a sgi image file to a portable anymap
+sha1sum - Compute and check sha1 message digest
+sha224sum - Compute and check sha224 message digest
+sha256sum - Compute and check sha256 message digest
+sha384sum - Compute and check sha384 message digest
+sha512sum - Compute and check sha512 message digest
+shasum - Print or check sha checksums
+shotwell - A digital photo organizer
+showconsolefont - Show the current ega/vga console screen font
+showfont - Font dumper for x font server
+showkey - Examine the codes sent by the keyboard
+showrgb - Display an rgb color-name database
+shred - Overwrite a file to hide its contents, and optionally delete it
+shuf - Generate random permutations
+simple-scan - Simple-scan - scanning utility
+sirtopnm - Convert a solitaire file into a portable anymap
+size - List section sizes and total size.
+skill - Send a signal or report process status
+slabtop - Display kernel slab cache information in real time
+sldtoppm - Convert an autocad slide file into a portable pixmap
+slogin - Ssh — openssh ssh client (remote login program)
+slxdecode - Decode a slx stream into human readable form.
+smbcacls - Set or get acls on an nt file or directory names
+smbclient - Ftp-like client to access smb/cifs resources on servers
+smbcquotas - Set or get quotas of ntfs 5 shares
+smbget - Wget-like utility for download files over smb
+smbpasswd - Change a user's smb password
+smbspool - Send a print file to an smb printer
+smbspool_krb5_wrapper - This is a cups printing backend which calls
+smbtar - Shell script for backing up smb/cifs shares directly to unix
+smbtree - A text based smb network browser
+smproxy - Session manager proxy
+snap - Tool to interact with snaps
+snice - Send a signal or report process status
+soelim - Interpret .so requests in groff input
+software-center - Software-center - manage software
+software-properties-gtk - Software-properties-gtk - software sources list editor
+sort - Sort lines of text files
+sotruss - Trace shared library calls through plt
+spctoppm - Convert  an atari compressed spectrum file into a portable
+spd-conf - Spd-conf  -  a simple tool for basic configuration of speech dispatcher
+spd-say - Spd-say - send text-to-speech output request to speech-dispatcher
+speaker-test - Speaker-test - command-line speaker test tone generator for alsa
+speech-dispatcher - Speech-dispatcher  -  server process managing speech requests in speech
+spellintian - Simple spellchecker based on lintian's data files
+splain - Produce verbose warning diagnostics
+split - Split a file into pieces
+splitdiff - Separate out incremental patches
+splitfont - Extract characters from an iso-type font.
+sprof - Read and display shared object profiling data
+sputoppm - Convert an atari uncompressed spectrum file into a portable
+ssh - Ssh — openssh ssh client (remote login program)
+ssh-add - Ssh-add — adds private key identities to the authentication agent
+ssh-agent - Ssh-agent — authentication agent
+ssh-argv0 - Ssh-argv0 — replaces the old ssh command-name as hostname handling
+ssh-askpass - Gnome-ssh-askpass - prompts a user for a passphrase using gnome
+ssh-copy-id - Ssh-copy-id — use locally available keys to authorise logins on a remote
+ssh-keygen - Ssh-keygen — authentication key generation, management and conversion
+ssh-keyscan - Ssh-keyscan — gather ssh public keys
+st4topgm - Convert an sbig st4 format file into a portable graymap
+start-pulseaudio-x11 - Start-pulseaudio-x11 - pulseaudio sound server x11 startup script
+startx - Initialize an x session
+stat - Display file or file system status
+stdbuf - Run command, with modified buffering operations for its stan‐
+strace - Trace system calls and signals
+stream - A lightweight tool to stream one or more pixel components of
+stream-im6 - A lightweight tool to stream one or more pixel components of
+strings - Print the strings of printable characters in files.
+strip - Discard symbols from object files.
+sudo - Sudo, sudoedit — execute a command as another user
+sudoedit - Sudo, sudoedit — execute a command as another user
+sudoreplay - Sudoreplay — replay sudo session logs
+sum - Checksum and count the blocks in a file
+symcryptrun - Call a simple symmetric encryption tool
+synclient - Commandline  utility to query and modify synaptics driver
+syndaemon - A program that monitors keyboard activity and disables the
+syslinux - Install the syslinux bootloader on a fat filesystem
+syslinux-legacy - Install the syslinux bootloader on a fat filesystem
+system-config-printer - System-config-printer - configure a cups server
+system-config-printer-applet - System-config-printer-applet - print job manager
+systemd-analyze - Systemd-analyze - analyze system boot-up performance
+systemd-cat - Systemd-cat - connect a pipeline or program's output with the journal
+systemd-cgls - Systemd-cgls - recursively show control group contents
+systemd-cgtop - Systemd-cgtop - show top control groups by their resource usage
+systemd-delta - Systemd-delta - find overridden configuration files
+systemd-detect-virt - Systemd-detect-virt - detect execution in a virtualized environment
+systemd-path - Systemd-path - list and query system and user paths
+systemd-resolve - Systemd-resolve - resolve domain names, ipv4 and ipv6 addresses, dns
+systemd-run - Systemd-run - run programs in transient scope or service or timer units
+t1ascii - Convert postscript type 1 font from binary to ascii
+t1asm - Assemble postscript type 1 font
+t1binary - Convert postscript type 1 font from ascii to binary
+t1disasm - Disassemble postscript type 1 font
+t1mac - Translate  a pfa or pfb postscript type 1 font into macintosh
+t1unmac - Translate a mac postscript type 1 font into pfa or pfb format
+tabs - Set tabs on a terminal
+tac - Concatenate and print files in reverse
+tail - Output the last part of files
+tap2deb - Create debian packages which wrap .tap files
+tap2rpm - Create rpm packages which wrap .tap files
+taskset - Set or retrieve a process's cpu affinity
+tbl - Format tables for troff
+tclsh - Simple shell containing tcl interpreter
+tclsh8.6 - Simple shell containing tcl interpreter
+tee - Read from standard input and write to standard output and files
+telnet - Telnet — user interface to the telnet protocol
+telnet.netkit - Telnet — user interface to the telnet protocol
+terminator - Multiple gnome terminals in one window
+test - Check file types and compare values
+testparm - Check an smb.conf configuration file for internal
+testrb1.9.1 - Automatic runnter for test::unit of ruby
+tgatoppm - Convert truevision targa file into a portable pixmap
+tgz - Makes a gzip'd tar archive
+thinkjettopbm - Convert hp thinkjet printer commands file to pbm
+thunderbird - Mail user agent (mua) and newsgroup/rss
+tic - The terminfo entry-description compiler
+tifftopnm - Convert a tiff file into a portable anymap
+tificc - Little cms icc profile applier for tiff.
+time - Run programs and summarize system resource usage
+timedatectl - Control the system time and date
+timeout - Run a command with a time limit
+tkconch - Connect to ssh servers graphically
+tload - Graphic representation of system load average
+tmux - Tmux — terminal multiplexer
+toc2cddb - Translates  a  toc  file of cdrdao(1) into a cddb file and
+toc2cue - Converts a toc files of cdrdao(1) into a .cue file
+toe - Table of (terminfo) entries
+top - Display linux processes
+toshset - Manipulate bios and hardware settings of toshiba laptops
+totem - Gnome desktop movie player based on gstreamer
+totem-video-thumbnailer - Totem-video-thumbnailer - video thumbnailer for the gnome desktop
+touch - Change file timestamps
+tput - Initialize a terminal or query terminfo database
+tr - Translate or delete characters
+tracepath - Traces path to a network host discovering mtu
+tracepath6 - Traces path to a network host discovering mtu
+traceroute6 - Traces path to a network host
+traceroute6.iputils - Traces path to a network host
+transicc - Little cms colorspace conversion calculator.
+transmission-gtk - Transmission-gtk — a bittorrent client
+transset - Set transparency on a window
+trial - Run unit tests
+troff - The troff processor of the groff text formatting system
+truncate - Shrink or extend the size of a file to the specified size
+trust - Tool for operating on the trust policy store
+tset - Terminal initialization
+tsort - Perform topological sort
+tty - Print the file name of the terminal connected to standard input
+twistd - Run twisted applications (tacs, taps)
+tzselect - View timezones
+ubuntu-bug - Apport-bug,  apport-collect - file a bug report using apport, or update
+ucf - Update configuration file:  preserve user changes in configura‐
+ucfq - Query the ucf database
+ucfr - Update  configuration  file registry:  associate packages with
+uconv - Convert data from one encoding to another
+ucs2any - Generate  bdf fonts containing subsets of iso 10646-1 code‐
+udisksctl - The udisks command line tool
+ul - Ul — do underlining
+umax_pp - Sane-umax_pp  - sane backend for umax astra parallel port flatbed scan‐
+unattended-upgrade - Unattended-upgrade  -  automatic  installation  of security (and other)
+unexpand - Convert spaces to tabs
+unicode_stop - Revert keyboard and console from unicode mode
+uniq - Report or omit repeated lines
+unity - Wrapper for starting the unity shell and handling fallback
+unity-control-center - Unity-control-center - configure unity settings
+unlink - Call the unlink function to remove the specified file
+unlzma - Compress or decompress .xz and
+unshare - Run program with some namespaces unshared from parent
+unsquashfs - Tool to uncompress squashfs filesystems
+unwrapdiff - Demangle word-wrapped patches
+unxz - Compress or decompress .xz and
+unzip - List, test and extract compressed files in a zip archive
+unzipsfx - Self-extracting stub for prepending to zip archives
+update-alternatives - Update-alternatives  - maintain symbolic links determining default com‐
+updatedb - Update a database for mlocate
+update-desktop-database - Update-desktop-database - build cache database of mime types handled by
+update-gconf-defaults - Update-gconf-defaults - generate gconf defaults shipped in debian pack‐
+update-manager - Update-manager - graphical management of software packages updates
+update-mime-database - Update-mime-database - a program to build the shared mime-info database
+upower - Upower command line tool
+uptime - Tell how long the system has been running.
+usb-creator-gtk - Usb-creator-gtk ‐ ubuntu startup disk creation tool for gtk+
+usb-devices - Usb-devices - print usb device details
+usbhid-dump - Usbhid-dump - dump usb hid device report descriptors and streams
+usb_printerid - Prints the id of the printer on a usb port
+users - Print the user names of users currently logged in to the cur‐
+utmpdump - Dump utmp and wtmp files in raw format
+uuidgen - Create a new uuid value
+uxterm - X terminal emulator for unicode (utf-8) environments
+uz - Gunzips and extracts a gzip'd tar'd archive
+vcdimager - Manual page for vcdimager 0.7.24
+vcd-info - Vcd-info - manual page for vcd-info 0.7.24
+vcdxbuild - Manual page for vcdxbuild 0.7.24
+vcdxgen - Manual page for vcdxgen 0.7.24
+vcdxminfo - Manual page for vcdxminfo 0.7.24
+vcdxrip - Manual page for vcdxrip 0.7.24
+vi - Vi improved, a programmers text editor
+view - Vi improved, a programmers text editor
+viewres - Graphical class browser for xt
+vim - Vi improved, a programmers text editor
+vimdiff - Edit two, three or four versions of a file with vim and show
+vimtutor - The vim tutor
+virt_mail - Openlink virtuoso opensource mail interface
+virtuoso-t - Virtuoso-t - openlink virtuoso opensource server
+vmstat - Report virtual memory statistics
+volname - Return volume name
+vstp - Visiobraille file transferring
+w - Show who is logged on and what they are doing.
+wall - Write a message to all users
+watch - Execute a program periodically, showing output fullscreen
+watchgnupg - Read and print logs from a socket
+wbmptopbm - Convert a wireless bitmap (wbmp) file to a portable bitmap
+wc - Print newline, word, and byte counts for each file
+wftopfa - Convert a wadalab base font to postscript .pfa (or .pfb) for‐
+wget - The non-interactive network downloader.
+whatis - Display one-line manual page descriptions
+whereis - Locate the binary, source, and manual page files for a com‐
+which - Locate a command
+who - Show who is logged on
+whoami - Print effective userid
+winicontoppm - Convert  a  windows  .ico file into 1 or more portable
+wish - Simple windowing shell
+wish8.6 - Simple windowing shell
+wodim - Write data to optical disk media
+word-list-compress - Word-list-compress - word list compressor/decompressor for gnu aspell
+wpa_passphrase - Generate a wpa psk from an ascii passphrase for a ssid
+w.procps - Show who is logged on and what they are doing.
+wrestool - Extract resources from microsoft windows(r) binaries
+write - Write — send a message to another user
+X - A portable, network-transparent window system
+x11perf - X11 server performance test program
+x11perfcomp - X11 server performance comparison program
+x86_64 - Change reported architecture in new program environment and
+x86_64-linux-gnu-addr2line - Convert addresses into file names and line numbers.
+x86_64-linux-gnu-ar - Create, modify, and extract from archives
+x86_64-linux-gnu-as - The portable gnu assembler.
+x86_64-linux-gnu-c++filt - Demangle c++ and java symbols.
+x86_64-linux-gnu-cpp - The c preprocessor
+x86_64-linux-gnu-cpp-4.8 - The c preprocessor
+x86_64-linux-gnu-cpp-5 - The c preprocessor
+x86_64-linux-gnu-dwp - The dwarf packaging utility
+x86_64-linux-gnu-elfedit - Update the elf header of elf files.
+x86_64-linux-gnu-g++ - Gnu project c and c++ compiler
+x86_64-linux-gnu-g++-4.8 - Gnu project c and c++ compiler
+x86_64-linux-gnu-g++-5 - Gnu project c and c++ compiler
+x86_64-linux-gnu-gcc - Gnu project c and c++ compiler
+x86_64-linux-gnu-gcc-4.8 - Gnu project c and c++ compiler
+x86_64-linux-gnu-gcc-5 - Gnu project c and c++ compiler
+x86_64-linux-gnu-gcc-ar - Gcc-ar - a wrapper around ar adding the --plugin option
+x86_64-linux-gnu-gcc-ar-4.8 - Gcc-ar - a wrapper around ar adding the --plugin option
+x86_64-linux-gnu-gcc-ar-5 - Gcc-ar - a wrapper around ar adding the --plugin option
+x86_64-linux-gnu-gcc-nm - Gcc-nm - a wrapper around nm adding the --plugin option
+x86_64-linux-gnu-gcc-nm-4.8 - Gcc-nm - a wrapper around nm adding the --plugin option
+x86_64-linux-gnu-gcc-nm-5 - Gcc-nm - a wrapper around nm adding the --plugin option
+x86_64-linux-gnu-gcc-ranlib - Gcc-ranlib - a wrapper around ranlib adding the --plugin option
+x86_64-linux-gnu-gcc-ranlib-4.8 - Gcc-ranlib - a wrapper around ranlib adding the --plugin option
+x86_64-linux-gnu-gcc-ranlib-5 - Gcc-ranlib - a wrapper around ranlib adding the --plugin option
+x86_64-linux-gnu-gcov - Coverage testing tool
+x86_64-linux-gnu-gcov-4.8 - Coverage testing tool
+x86_64-linux-gnu-gcov-5 - Coverage testing tool
+x86_64-linux-gnu-gfortran - Gnu fortran compiler
+x86_64-linux-gnu-gfortran-5 - Gnu fortran compiler
+x86_64-linux-gnu-gprof - Display call graph profile data
+x86_64-linux-gnu-ld - The gnu linker
+x86_64-linux-gnu-ld.bfd - The gnu linker
+x86_64-linux-gnu-ld.gold - The gnu elf linker
+x86_64-linux-gnu-nm - List symbols from object files
+x86_64-linux-gnu-objcopy - Copy and translate object files
+x86_64-linux-gnu-objdump - Display information from object files.
+x86_64-linux-gnu-ranlib - Generate index to archive.
+x86_64-linux-gnu-readelf - Displays information about elf files.
+x86_64-linux-gnu-size - List section sizes and total size.
+x86_64-linux-gnu-strings - Print the strings of printable characters in files.
+x86_64-linux-gnu-strip - Discard symbols from object files.
+xargs - Build and execute command lines from standard input
+xauth - X authority file utility
+xbiff - Mailbox flag for x
+xbmtopbm - Convert an x11 or x10 bitmap into a portable bitmap
+xbrlapi - X11 brlapi helper for linux/unix
+xcalc - Scientific calculator for x
+xclipboard - X clipboard client
+xclock - Analog / digital clock for x
+xcmsdb - Device color characterization utility for x color management
+xconsole - Monitor system console messages with x
+xcursorgen - Create an x cursor file from a collection of png images
+xcutsel - Interchange between cut buffer and selection
+xdg-desktop-icon - Xdg-desktop-icon - command line tool for (un)installing icons to the
+xdg-desktop-menu - Xdg-desktop-menu - command line tool for (un)installing desktop menu
+xdg-email - Xdg-email - command line tool for sending mail using the user's
+xdg-icon-resource - Xdg-icon-resource - command line tool for (un)installing icon resources
+xdg-mime - Xdg-mime - command line tool for querying information about file type
+xdg-open - Xdg-open - opens a file or url in the user's preferred application
+xdg-screensaver - Xdg-screensaver - command line tool for controlling the screensaver
+xdg-settings - Xdg-settings - get various settings from the desktop environment
+xdg-user-dir - Xdg-user-dir - find an xdg user dir
+xdg-user-dirs-update - Xdg-user-dirs-update - update xdg user dir configuration
+xditview - Display ditroff output
+xdpyinfo - Display information utility for x
+xdriinfo - Query configuration information of dri drivers
+xedit - Simple text editor for x
+xev - Print contents of x events
+xeyes - A follow the mouse x demo
+xfd - Display all the characters in an x font
+xfontsel - Point and click selection of x11 font names
+xfsinfo - X font server information utility
+xgamma - Alter a monitor's gamma correction through the x server
+xgc - X graphics demo
+xgettext - Extract gettext strings from source
+xhost - Server access control program for x
+ximtoppm - Convert an xim file into a portable pixmap
+xinit - X window system initializer
+xinput - Utility to configure and test x input devices
+xkbbell - Xkb extension user utility
+xkbcomp - Compile xkb keyboard description
+xkbevd - Xkb event daemon
+xkbprint - Print an xkb keyboard description
+xkbvleds - Xkb extension user utility
+xkbwatch - Xkb extension user utility
+xkill - Kill a client by its x resource
+xload - System load average display for x
+xlogo - X window system logo
+xlsatoms - List interned atoms defined on server
+xlsclients - List client applications running on a display
+xlsfonts - Server font list displayer for x
+xmag - Magnify parts of the screen
+xman - Manual page display program for the x window system
+xmessage - Display a message or query in a window (x-based /bin/echo)
+xmlcatalog - Command line tool to parse and manipulate xml or sgml
+xmllint - Command line xml tool
+xmodmap - Utility for modifying keymaps and pointer button mappings in
+xmore - Plain text display program for the x window system
+Xorg - X11r7 x server
+xpmtoppm - Convert an x11 pixmap into a portable pixmap
+xprop - Property displayer for x
+xqxdecode - Decode a xqx stream into human readable form.
+xrandr - Primitive command line interface to randr extension
+xrdb - X server resource database utility
+xrefresh - Refresh all or part of an x screen
+xsel - Manipulate the x selection.
+x-session-manager - Gnome-session - start the gnome desktop environment
+xset - User preference utility for x
+xsetmode - Set the mode for an x input device
+xsetpointer - Set an x input device as the main pointer
+xsetroot - Root window parameter setting utility for x
+xsetwacom - Commandline utility to query and modify wacom driver set‐
+xsm - X session manager
+xstdcmap - X standard colormap utility
+xsubpp - Compiler to convert perl xs code into c code
+xterm - Terminal emulator for x
+x-terminal-emulator - Multiple gnome terminals in one window
+xvidtune - Video mode tuner for xorg
+xvinfo - Print out x-video extension adaptor information
+xvminitoppm - Convert a xv "thumbnail" picture to ppm
+xwd - Dump an image of an x window
+xwdtopnm - Convert a x11 or x10 window dump file into a portable anymap
+xwininfo - Window information utility for x
+xwud - Image displayer for x
+xxd - Make a hexdump or do the reverse.
+xz - Compress or decompress .xz and
+xzcat - Compress or decompress .xz and
+xzcmp - Compare compressed files
+xzdiff - Compare compressed files
+xzegrep - Search compressed files for a regular expression
+xzfgrep - Search compressed files for a regular expression
+xzgrep - Search compressed files for a regular expression
+xzless - View xz or lzma compressed (text) files
+xzmore - View xz or lzma compressed (text) files
+ybmtopbm - Convert a bennet yee "face" file into a portable bitmap
+yelp - Yelp — browse system documentation
+yes - Output a string repeatedly until killed
+yuvsplittoppm - Convert  a  y-  and a u- and a v-file into a portable
+yuvtoppm - Convert abekas yuv bytes into a portable pixmap
+zdump - Timezone dumper
+zeisstopnm - Convert a zeiss confocal file into a portable anymap
+zeitgeist-daemon - Zeitgeist-daemon - d-bus interface providing a log of activities
+zeitgeist-datahub - Zeitgeist-datahub - passive loggers for zeitgeist
+zenity - Display gtk+ dialogs
+zip - Package and compress (archive) files
+zipcloak - Encrypt entries in a zipfile
+zipdetails - Display the internal structure of zip files
+zipgrep - Search files in a zip archive for lines matching a pattern
+zipinfo - List detailed information about a zip archive
+zipnote - Write  the comments in zipfile to stdout, edit comments and
+zipsplit - Split a zipfile into smaller zipfiles
+zjsdecode - Decode a zjstream into human readable form.
+zlib-flate - Zlib-flate - raw zlib compression program
+zsh - The z shell
+elixir - Elixir — the elixir script runner
+elixirc - Elixirc — the elixir compiler
+iex - Iex — the elixir shell
+mix - Mix — the software project management tool
+npm - Javascript package manager
+rake - A make-like build utility for ruby
+aa-exec - Aa-exec - confine a program with the specified apparmor profile
+aa-remove-unknown - Aa-remove-unknown - remove unknown apparmor profiles
+aa-status - Aa-status - display various information about the current apparmor
+accept - Accept/reject jobs sent to a destination
+accessdb - Dumps the content of a man-db database in a human readable
+acpid - Advanced configuration and power interface event daemon
+addgnupghome - Create .gnupg home directories
+addgroup - Add a user or group to the system
+add-shell - Add-shell - add shells to the list of valid login shells
+adduser - Add a user or group to the system
+alsactl - Advanced controls for alsa soundcard driver
+anacron - Runs commands periodically
+apparmor_status - Aa-status - display various information about the current apparmor
+applygnupgdefaults - Run gpgconf --apply-defaults for all users.
+aptd - Package managing daemon proving a d-bus interface
+arp - Manipulate the system arp cache
+arpd - Userspace arp daemon.
+aspell-autobuildhash - Aspell-autobuildhash - autobuilding aspell hash files for some dicts
+avahi-autoipd - Avahi-autoipd - ipv4ll network address configuration daemon
+avahi-daemon - Avahi-daemon - the avahi mdns/dns-sd daemon
+ax25-node - Ax25-node - node front end for ax.25, net/rom, rose and tcp
+biosdecode - Bios information decoder
+bluetoothd - Bluetooth daemon
+chat - Automated conversational script with a modem
+chgpasswd - Update group passwords in batch mode
+chpasswd - Update passwords in batch mode
+chroot - Run command or interactive shell with special root directory
+cpgr - Copy with locking the given file to the password or group
+cppw - Copy with locking the given file to the password or group
+cracklib-check - Cracklib-check - check passwords using libcrack2
+cracklib-format - Cracklib-format,  cracklib-packer, cracklib-unpacker - cracklib dictio‐
+cracklib-packer - Cracklib-format,  cracklib-packer, cracklib-unpacker - cracklib dictio‐
+cracklib-unpacker - Cracklib-format,  cracklib-packer, cracklib-unpacker - cracklib dictio‐
+create-cracklib-dict - Create-cracklib-dict - check passwords using libcrack2
+cron - Daemon to execute scheduled commands (vixie cron)
+cupsaccept - Accept/reject jobs sent to a destination
+cupsaddsmb - Export printers to samba for windows clients
+cups-browsed - Cups-browsed  - a daemon for browsing the bonjour broadcasts of shared,
+cupsctl - Configure cupsd.conf options
+cupsd - Cups scheduler
+cupsdisable - Stop/start printers and classes
+cupsenable - Stop/start printers and classes
+cupsfilter - Convert a file to another format using cups filters
+cups-genppdupdate - Cups-genppdupdate - update cups+gutenprint ppd files
+cupsreject - Accept/reject jobs sent to a destination
+delgroup - Remove a user or group from the system
+deluser - Remove a user or group from the system
+dmidecode - Dmi table decoder
+dnsmasq - A lightweight dhcp and caching dns server.
+dpkg-divert - Dpkg-divert - override a package's version of a file
+dpkg-preconfigure - Dpkg-preconfigure - let packages ask questions prior to their
+dpkg-reconfigure - Dpkg-reconfigure - reconfigure an already installed package
+dpkg-statoverride - Dpkg-statoverride - override ownership and mode of files
+e2freefrag - Report free space fragmentation information
+e4defrag - Online defragmenter for ext4 filesystem
+fdformat - Low-level format a floppy disk
+filefrag - Report on file fragmentation
+gconf-schemas - Gconf-schemas - register gconf schemas with the gconf database
+genccode - Generate  c or platform specific assembly code from an icu
+gencmn - Generate an icu memory-mappable data file
+gennorm2 - Builds binary data file with unicode normalization data.
+gensprep - Compile  stringprep  data  from  files filtered by filter‐
+groupadd - Create a new group
+groupdel - Delete a group
+groupmod - Modify a group definition on the system
+grpck - Verify integrity of group files
+grpconv - Convert to and from shadow
+grpunconv - Convert to and from shadow
+grub-bios-setup - Grub-bios-setup - set up a device to boot using grub
+grub-install - Grub-install - install grub to a device
+grub-macbless - Grub-macbless - bless a mac file/directory
+grub-mkconfig - Grub-mkconfig - generate a grub configuration file
+grub-mkdevicemap - Grub-mkdevicemap - make a device map file automatically
+grub-probe - Grub-probe - probe device information for grub
+grub-reboot - Grub-reboot  -  set  the default boot entry for grub, for the next boot
+grub-set-default - Grub-set-default - set the saved default boot entry for grub
+hald - Hal daemon
+iconvconfig - Create iconv module configuration cache
+icupkg - Extract or modify an icu .dat archive
+inetd - Inetd — internet “super-server”
+install-docs - Install-docs - manage online debian documentation
+install-sgmlcatalog - Install-sgmlcatalog - maintain transitional sgml catalog
+invoke-rc.d - Invoke-rc.d - executes system-v style init script actions
+ip6tables-apply - Iptables-apply - a safer way to update iptables remotely
+ippusbxd - Userland driver for ipp-over-usb class printers
+iptables-apply - Iptables-apply - a safer way to update iptables remotely
+irqbalance - Distribute hardware interrupts across processors on a mul‐
+ispell-autobuildhash - Ispell-autobuildhash - autobuilding the ispell hash file for some dicts
+kerneloops - Program to collect and submit kernel oopses to oops.ker‐
+laptop-detect - Laptop-detect - attempt to detect a laptop
+ldattach - Attach a line discipline to a serial line
+lightdm - A display manager
+locale-gen - Locale-gen — generates localisation files from templates
+logrotate - Logrotate ‐ rotates, compresses, and mails system logs
+lpadmin - Configure cups printers and classes
+lpc - Line printer control program
+lpinfo - Show available devices or drivers
+lpmove - Move a job or all jobs to a new destination
+make-ssl-cert - Make-ssl-cert - debconf wrapper for openssl
+mkinitramfs - Low-level tool for generating an initramfs image
+mklost+found - Create a lost+found directory on a mounted linux second
+ModemManager - Modem management daemon
+netscsid - Write data to optical disk media
+NetworkManager - Network management daemon
+newusers - Update and create new users in batch
+nfnl_osf - Load and unload os fingerprint database
+node - Ax25-node - node front end for ax.25, net/rom, rose and tcp
+nodeusers - Linuxnode user information lookup program
+nologin - Politely refuse a login
+ntpdate - Set the date and time via ntp
+ntpdate-debian - Ntpdate-debian - set the date and time via ntp
+ownership - Compaq ownership tag retriever
+pam-auth-update - Pam-auth-update - manage pam configuration using packaged profiles
+pam_getenv - Get environment variables from /etc/environment
+pam_timestamp_check - Check to see if the default timestamp is valid
+paperconfig - Configure the system default paper size
+pm-hibernate - Pm-action - suspend or hibernate your computer
+pm-powersave - Pm-powersave - put your computer into low power mode
+pm-suspend - Pm-action - suspend or hibernate your computer
+pm-suspend-hybrid - Pm-action - suspend or hibernate your computer
+popcon-largest-unused - Popcon-largest-unused - list size of unused packages
+popularity-contest - Popularity-contest - list the most popular debian packages
+pppconfig - Configure pppd to connect to the internet
+pppd - Point-to-point protocol daemon
+pppdump - Convert ppp record file to readable format
+pppoeconf - Pppoeconf — configures a pppoe (adsl) connection
+pppoe-discovery - Pppoe-discovery - perform pppoe discovery
+pppstats - Print ppp statistics
+pptp - Pptp driver
+pptpsetup - Point-to-point tunneling protocol setup
+pwck - Verify integrity of password files
+pwconv - Convert to and from shadow
+pwunconv - Convert to and from shadow
+readprofile - Read kernel profiling information
+realm - Manage enrollment in realms
+reject - Accept/reject jobs sent to a destination
+remove-default-ispell - Remove-default-ispell - remove default ispell dictionary
+remove-default-wordlist - Remove-default-wordlist - remove default wordlist
+remove-shell - Remove-shell - remove shells from the list of valid login shells
+rfkill - Tool for enabling and disabling wireless devices
+rmt - Rmt — remote magtape protocol module
+rmt-tar - Rmt — remote magtape protocol module
+rsyslogd - Reliable and extended syslogd
+rtcwake - Enter a system sleep state until specified wakeup time
+rtkitctl - Realtime policy and watchdog daemon control
+safe_finger - Finger client wrapper that protects against nasty stuff
+saned - Sane network daemon
+select-default-ispell - Select-default-ispell - select default ispell dictionary
+select-default-wordlist - Select-default-wordlist - select default wordlist
+service - Run a system v init script
+setvesablank - Turn vesa screen blanking on or off
+tarcat - Concatenates the pieces of a gnu tar multi-volume archive
+tcpd - Access control facility for internet services
+tcpdchk - Tcp wrapper configuration checker
+tcpdmatch - Tcp wrapper oracle
+tcpdump - Dump traffic on a network
+thermald - Start linux thermal daemon
+toshsat1800-irdasetup - Toshsat1800-irdasetup - irda setup utility for toshiba satellite 1800
+try-from - Try-from - test program for the tcp_wrapper
+tunelp - Set various parameters for the lp device
+ufw - Program for managing a netfilter firewall
+unity-greeter - Unity-greeter - lightdm greeter for the unity desktop
+update-alternatives - Update-alternatives  - maintain symbolic links determining default com‐
+update-apt-xapian-index - Update-apt-xapian-index - rebuild the apt xapian index
+update-ca-certificates - Update-ca-certificates - update /etc/ssl/certs and ca-certificates.crt
+update-catalog - Update-catalog - create or update entry in sgml catalog file
+update-cracklib - Update-cracklib - regenerate cracklib dictionary
+update-default-aspell - Update-dictcommon-aspell - rebuild aspell database and emacsen stuff
+update-default-ispell - Update-default-ispell - update default ispell dictionary
+update-default-wordlist - Update-default-wordlist - update default wordlist
+update-dictcommon-aspell - Update-dictcommon-aspell - rebuild aspell database and emacsen stuff
+update-dictcommon-hunspell - Update-dictcommon-hunspell - rebuild hunspell database and emacsen
+update-fonts-alias - Update-fonts-alias - compile fonts.alias files
+update-fonts-dir - Update-fonts-dir - compile fonts.dir files
+update-fonts-scale - Update-fonts-scale - generate fonts.scale files
+update-grub - Update-grub, update-grub2 - stub for grub-mkconfig
+update-grub2 - Update-grub, update-grub2 - stub for grub-mkconfig
+update-grub-gfxpayload - Update-grub-gfxpayload — update /boot/grub/gfxblacklist.txt
+update-icon-caches - Update-icon-caches - update wrapper script for the icon caches
+update-icon-caches.gtk2 - Update-icon-caches - update wrapper script for the icon caches
+update-inetd - Update-inetd   -   create,   remove,   enable   or   disable  entry  in
+update-info-dir - Update-info-dir  -  update or create index file from all installed info
+update-initramfs - Update-initramfs - generate an initramfs image
+update-locale - Update-locale - modify global locale settings
+update-mime - Update-mime - create or update mime information
+update-motd - Update-motd  - immediately update the dynamic motd and print it to std‐
+update-passwd - Update-passwd - safely update /etc/passwd, /etc/shadow and /etc/group
+update-pciids - Update-pciids - download new version of the pci id list
+update-python-modules - Update-python-modules - byte-compile python modules
+update-rc.d - Update-rc.d - install and remove system-v style init script links
+update-software-center - Update-software-center - update the database for software-center
+update-usbids - Update-usbids - download new version of the usb id list
+update-xmlcatalog - Update-xmlcatalog - maintain xml catalog files
+usb_modeswitch - Control the mode of 'multi-state' usb devices
+usb_modeswitch_dispatcher - Linux  wrapper  for  usb_modeswitch  (not
+usbmuxd - Expose  a  socket  to multiplex connections from and to ios
+useradd - Create a new user or update default new user information
+userdel - Delete a user account and related files
+usermod - Modify a user account
+uuidd - Uuid generation daemon
+validlocale - Test if a given locale is available
+vbetool - Run real-mode video bios code to alter hardware state
+vcstime - Show time in upper right hand corner of the console screen
+vigr - Edit the password, group, shadow-password or shadow-group
+vipw - Edit the password, group, shadow-password or shadow-group
+visudo - Visudo — edit the sudoers file
+vpddecode - Vpd structure decoder
+zic - Timezone compiler
